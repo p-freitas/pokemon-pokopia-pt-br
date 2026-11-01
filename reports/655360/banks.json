@@ -1,0 +1,1920 @@
+[
+  {
+    "bank": 1910,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 401,
+    "sample": "<$emotion(1,29)><$voicel(1,7)>Um, hi there! Who are you?<clear><br><$motion(0,824)><wait(0.8)><$moti"
+  },
+  {
+    "bank": 1919,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 400,
+    "sample": "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Huh? Who are you?<clear><br><$voicel(1,7)><$emotion(1,49"
+  },
+  {
+    "bank": 1928,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 401,
+    "sample": "<$comeff(1,3)><$motion(1,666)><$voicel(1,7)>Hi there, nice to meet you! You’re...a Pokémon, right?<b"
+  },
+  {
+    "bank": 1937,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 400,
+    "sample": "<$voicel(1,8)><$motion(1,803)><$comeff(1,9)><$facial(1,4)><$pkcry;0(1,2)>! Nice to meet you!<clear><"
+  },
+  {
+    "bank": 1946,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 397,
+    "sample": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Hi there... Uhhh, what was the greeting? Oh, right! Nic"
+  },
+  {
+    "bank": 1955,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 404,
+    "sample": "<$voicel(1,8)><$emotion(1,14)>Yooo! Nice to meet you!<clear><br><$voicel(1,9)><$emotion(1,8)>It’d be"
+  },
+  {
+    "bank": 1964,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 398,
+    "sample": "<$voicel(1,8)><$emotion(1,14)>Whoa, hey! Nice to meetcha!<clear><br><$voicel(1,5)><$emotion(1,38)>Yo"
+  },
+  {
+    "bank": 1973,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 404,
+    "sample": "<oneline><$voicel(1,5)><$emotion(1,29)>Hey there. Have we met?<clear><br><$motion(0,824)><wait(0.8)>"
+  },
+  {
+    "bank": 1982,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 408,
+    "sample": "<$voicel(1,7)><$emotion(1,14)>HEY! Nice to meet ya! You look like a pretty nice<br>Pokémon!<$voicel("
+  },
+  {
+    "bank": 1991,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 403,
+    "sample": "<$voicel(1,5)><$emotion(1,14)>Um, hi! N-nice to meet you! Sorry, I get a bit nervous<br>when I meet "
+  },
+  {
+    "bank": 2000,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 403,
+    "sample": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Hm? Who might you be? Bit of a blank expression on yer<b"
+  },
+  {
+    "bank": 2009,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 403,
+    "sample": "<$voicel(1,8)><$motion(1,803)><$comeff(1,9)>Why, hello there. Pleased to make your acquaintance.<cle"
+  },
+  {
+    "bank": 2018,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 406,
+    "sample": "<$voicel(1,5)><$motion(1,803)><$comeff(1,9)>Oh, heyyy. Nice to meet you... Let’s be friends. <$voice"
+  },
+  {
+    "bank": 2027,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 400,
+    "sample": "<$emotion(1,14)><$voicel(1,7)>Why hello. How do you do? It’s a pleasure to meet you.<br><$emotion(1,"
+  },
+  {
+    "bank": 2036,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 399,
+    "sample": "<$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Oh, goodness! I’m so pleased to meet you! What’s your<br"
+  },
+  {
+    "bank": 2045,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 407,
+    "sample": "<$emotion(1,14)><$voicel(1,5)>Hey, heyyy! Not sure we’ve met before. It’d be great if we<br>could be"
+  },
+  {
+    "bank": 2054,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 393,
+    "sample": "<$voicel(1,7)><$motion(1,803)><$comeff(1,10)>Hello. Nice to meet you. Let us be friends.<br><$voicel"
+  },
+  {
+    "bank": 2063,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 85,
+    "sample": "<oneline><$voicel(1,5)><$emotion(1,29)>Hmmm? Who do we have here? Are you a friend<br>of <$cdef(27)>"
+  },
+  {
+    "bank": 2072,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 128,
+    "sample": "<$voicel(1,7)><$emotion(1,1)>Hello there—pleased to meet you. Are you perhaps a<br>friend of <$cdef("
+  },
+  {
+    "bank": 2090,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 375,
+    "sample": "Chu"
+  },
+  {
+    "bank": 2099,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 375,
+    "sample": "Piiika"
+  },
+  {
+    "bank": 2108,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 375,
+    "sample": "Pika"
+  },
+  {
+    "bank": 2117,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 375,
+    "sample": "Chuuu"
+  },
+  {
+    "bank": 2126,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 2,
+    "sample": "Humid"
+  },
+  {
+    "bank": 2135,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 2,
+    "sample": "Bright"
+  },
+  {
+    "bank": 2144,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 2,
+    "sample": "Warm"
+  },
+  {
+    "bank": 2153,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 51,
+    "sample": "Soft stuff"
+  },
+  {
+    "bank": 2162,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 35,
+    "sample": "soft stuff"
+  },
+  {
+    "bank": 2171,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "Familiar bag 1"
+  },
+  {
+    "bank": 2198,
+    "count": 128,
+    "stride": 12,
+    "nonempty": 120,
+    "sample": "Wasteland Pokémon Center"
+  },
+  {
+    "bank": 2207,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 60,
+    "sample": "A Pokémon Center where you can feel the coziness<br>of wood. Inside, you can restore your PP."
+  },
+  {
+    "bank": 2216,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 1,
+    "sample": "Raise the environment level!"
+  },
+  {
+    "bank": 2225,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "Raise the environment level!"
+  },
+  {
+    "bank": 2234,
+    "count": 1201,
+    "stride": 8,
+    "nonempty": 580,
+    "sample": "Make new habitats to discover new Pokémon!"
+  },
+  {
+    "bank": 2243,
+    "count": 1201,
+    "stride": 8,
+    "nonempty": 652,
+    "sample": "Find new Pokémon! #1"
+  },
+  {
+    "bank": 2252,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 27,
+    "sample": "Familiar outfit 1"
+  },
+  {
+    "bank": 2261,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 402,
+    "sample": "Raichu"
+  },
+  {
+    "bank": 2270,
+    "count": 4000,
+    "stride": 8,
+    "nonempty": 1652,
+    "sample": "I wanna see more Pokémon"
+  },
+  {
+    "bank": 2279,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "Ancient Artifacts"
+  },
+  {
+    "bank": 2306,
+    "count": 32,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "Lots of electricity"
+  },
+  {
+    "bank": 2315,
+    "count": 16,
+    "stride": 12,
+    "nonempty": 4,
+    "sample": "Pokémon Center"
+  },
+  {
+    "bank": 2324,
+    "count": 515,
+    "stride": 8,
+    "nonempty": 462,
+    "sample": "This won’t work while it’s submerged."
+  },
+  {
+    "bank": 2333,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 47,
+    "sample": "Celebrate"
+  },
+  {
+    "bank": 2351,
+    "count": 248,
+    "stride": 8,
+    "nonempty": 73,
+    "sample": "<$voicel(1,7)><$emotion(1,38)>Hohoho! I’ve found quite the haul today!"
+  },
+  {
+    "bank": 2360,
+    "count": 73,
+    "stride": 8,
+    "nonempty": 62,
+    "sample": "<$voicel(1,7)><$comeff(1,3)><$motion(1,807)>But that was then! Things have changed!<clear><br><$voic"
+  },
+  {
+    "bank": 2369,
+    "count": 95,
+    "stride": 8,
+    "nonempty": 74,
+    "sample": "<oneline><$voicel(1,3)><$facial(1,9)>I’d resigned myself to being alone in this world forever...<cle"
+  },
+  {
+    "bank": 2378,
+    "count": 112,
+    "stride": 8,
+    "nonempty": 75,
+    "sample": "<$voicel(1,7)><$motion(1,801)><$comeff(1,3)>Oh, <$cdef(27)><pname;0></color>, you’re awake!<clear><b"
+  },
+  {
+    "bank": 2387,
+    "count": 100,
+    "stride": 8,
+    "nonempty": 58,
+    "sample": "<$voicel(3,7)><$emotion(3,14)>Here, look what I just found! You can have it!"
+  },
+  {
+    "bank": 2396,
+    "count": 100,
+    "stride": 8,
+    "nonempty": 40,
+    "sample": "This sparkle is a <$cdef(27)>trace of a Pokémon</color>.<clear><br>When you touch it, a hint about a"
+  },
+  {
+    "bank": 2405,
+    "count": 129,
+    "stride": 8,
+    "nonempty": 76,
+    "sample": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Oh, you’ve already got some <$cdef(27)><fqty(2)><$ifull("
+  },
+  {
+    "bank": 2414,
+    "count": 190,
+    "stride": 8,
+    "nonempty": 99,
+    "sample": "As you raise the<$cdef(27)> environment level</color>, you’ll be able to buy<br>lots and lots of dif"
+  },
+  {
+    "bank": 2423,
+    "count": 31,
+    "stride": 8,
+    "nonempty": 12,
+    "sample": "<oneline><$emotion(1,14)><$voicel(1,9)>Whoooaaa there, <$cdef(27)><pname;0></color>! You’ve<br>wande"
+  },
+  {
+    "bank": 2441,
+    "count": 225,
+    "stride": 8,
+    "nonempty": 163,
+    "sample": "<$voicev(4,1,30)>Heyyy..."
+  },
+  {
+    "bank": 2450,
+    "count": 67,
+    "stride": 8,
+    "nonempty": 38,
+    "sample": "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>*sniff sniff*<clear><br>I can smell something..."
+  },
+  {
+    "bank": 2459,
+    "count": 47,
+    "stride": 8,
+    "nonempty": 31,
+    "sample": "<$voicel(3,7)><$emotion(3,14)><$facial(3,4)>Hey, guess what! I thought up a way you could raise the<"
+  },
+  {
+    "bank": 2468,
+    "count": 103,
+    "stride": 8,
+    "nonempty": 68,
+    "sample": "<$emotion(2,29)><$voicel(2,7)>Hey, <$cdef(27)><pname;0></color>, I wanted to ask...<clear><br><$voic"
+  },
+  {
+    "bank": 2477,
+    "count": 115,
+    "stride": 8,
+    "nonempty": 80,
+    "sample": "<$voicel(4,7)><$motion(4,801)><$facial(4,14)><$kfacial(4)><$comeff(4,9)>I feel like there’s even mor"
+  },
+  {
+    "bank": 2486,
+    "count": 57,
+    "stride": 8,
+    "nonempty": 19,
+    "sample": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>That voice... I believe it was coming from the sea!"
+  },
+  {
+    "bank": 2522,
+    "count": 144,
+    "stride": 8,
+    "nonempty": 72,
+    "sample": "... ... ... *crackle*<br>Testing, testing...<clear><br>Wow! Looks like you already cleared Part One "
+  },
+  {
+    "bank": 2531,
+    "count": 102,
+    "stride": 8,
+    "nonempty": 60,
+    "sample": "<$voicel(1,3)><$comeff(1,6)><$motion(1,827)>I wonder if there are any Pokémon or humans still around"
+  },
+  {
+    "bank": 2540,
+    "count": 100,
+    "stride": 8,
+    "nonempty": 74,
+    "sample": "<$voicel(1,7)><$comeff(1,6)><$motion(1,824)>What’s going on? Are there any other Pokémon here<br>apa"
+  },
+  {
+    "bank": 2549,
+    "count": 59,
+    "stride": 8,
+    "nonempty": 39,
+    "sample": "<$voicel(4,5)><$comeff(4,14)><$motion(4,805)>Hmmm... No water’s coming out..."
+  },
+  {
+    "bank": 2558,
+    "count": 165,
+    "stride": 8,
+    "nonempty": 102,
+    "sample": "<$emotion(4,8)><$voicel(4,9)>I love how clean and comfy my shack is now. And it’s all<br>thanks to y"
+  },
+  {
+    "bank": 2567,
+    "count": 80,
+    "stride": 8,
+    "nonempty": 52,
+    "sample": "<oneline><$emotion(4,60)><$voicel(4,7)>Ooh ooh, <$cdef(27)><pname;0></color>! The ocean looks<br>rea"
+  },
+  {
+    "bank": 2576,
+    "count": 87,
+    "stride": 8,
+    "nonempty": 42,
+    "sample": "<$comeff(4,14)><$facial(4,9)><$motion(4,805)><$voicel(4,4)>Hrmmm... Nope! I don’t see it anywhere."
+  },
+  {
+    "bank": 2594,
+    "count": 46,
+    "stride": 8,
+    "nonempty": 13,
+    "sample": "<$emotion(1,41)><$voicel(1,3)>Poor <$cdef(27)>Meowth</color>, having their shack flooded like that.."
+  },
+  {
+    "bank": 2621,
+    "count": 139,
+    "stride": 8,
+    "nonempty": 59,
+    "sample": "<$comeff(3,15)>Zzzzz..."
+  },
+  {
+    "bank": 2630,
+    "count": 201,
+    "stride": 8,
+    "nonempty": 82,
+    "sample": "<$emotion(4,37)><$voicel(4,7)>Heya, <$cdef(27)><pname;0></color>! Guess what?<clear><br>I just came "
+  },
+  {
+    "bank": 2639,
+    "count": 166,
+    "stride": 8,
+    "nonempty": 60,
+    "sample": "<oneline><$emotion(4,37)><$voicel(4,7)><$cdef(27)><pname;0></color>! Yooo, I found this building I<b"
+  },
+  {
+    "bank": 2648,
+    "count": 183,
+    "stride": 8,
+    "nonempty": 53,
+    "sample": "<$emotion(2,14)><$voicel(2,5)>Now then, we have one more thing we must prepare."
+  },
+  {
+    "bank": 2657,
+    "count": 148,
+    "stride": 8,
+    "nonempty": 61,
+    "sample": "<$comeff(1,10)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>This town has really gotten brighter than"
+  },
+  {
+    "bank": 2666,
+    "count": 105,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "<$comeff(3,15)><$facial(3,14)>Zzzzzzz..."
+  },
+  {
+    "bank": 2675,
+    "count": 104,
+    "stride": 8,
+    "nonempty": 49,
+    "sample": "<$voicel(3,10)><$emotion(3,27)>Whoa! Now this is a surprise!<clear><br><$voicel(3,5)><$comeff(3,14)>"
+  },
+  {
+    "bank": 2684,
+    "count": 253,
+    "stride": 8,
+    "nonempty": 94,
+    "sample": "<$voicel(4,7)><$emotion(4,27)>Oh, <$cdef(27)><pname;0></color>! Perfect timing!"
+  },
+  {
+    "bank": 2693,
+    "count": 222,
+    "stride": 8,
+    "nonempty": 97,
+    "sample": "<$voicel(4,9)><$emotion(4,38)>Ta-daaa! Here’s the machine I was telling you about!"
+  },
+  {
+    "bank": 2702,
+    "count": 106,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>You’d like to power up more <$cdef(27)>streetlights </c"
+  },
+  {
+    "bank": 2711,
+    "count": 116,
+    "stride": 8,
+    "nonempty": 46,
+    "sample": "<$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Oho! It looks like the humans were doing s"
+  },
+  {
+    "bank": 2720,
+    "count": 121,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "<$comeff(4,6)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>What? You need help with some heavy liftin"
+  },
+  {
+    "bank": 2729,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 39,
+    "sample": "<oneline><$emotion(1,38)><$voicel(1,9)>I’m so glad you can use the <$cdef(27)>PC</color> now,<br><$c"
+  },
+  {
+    "bank": 2738,
+    "count": 148,
+    "stride": 8,
+    "nonempty": 57,
+    "sample": "<$comeff(2,17)><$motion(2,645)><$voicel(2,9)>Good grief, are you really so weak you can’t handle a s"
+  },
+  {
+    "bank": 2747,
+    "count": 127,
+    "stride": 8,
+    "nonempty": 66,
+    "sample": "<oneline><$comeff(4,14)><$motion(4,661)><$voicel(4,7)>...And then when we ate that delicious salad,<"
+  },
+  {
+    "bank": 2756,
+    "count": 55,
+    "stride": 8,
+    "nonempty": 32,
+    "sample": "<$voicel(2,3)><$comeff(2,4)><$motionoff(2,804)><$facial(2,9)>Phew! What a relief to be out of there!"
+  },
+  {
+    "bank": 2765,
+    "count": 145,
+    "stride": 8,
+    "nonempty": 72,
+    "sample": "<$voicel(2,7)><$emotion(2,49)>Oh, goodness me—I just remembered! There’s something<br>I’ve been mean"
+  },
+  {
+    "bank": 2774,
+    "count": 77,
+    "stride": 8,
+    "nonempty": 28,
+    "sample": "<oneline><$voicel(1,7)><$comeff(1,1)><$motion(1,801)><$facial(1,4)>Thanks to you, <$cdef(27)><pname;"
+  },
+  {
+    "bank": 2783,
+    "count": 26,
+    "stride": 8,
+    "nonempty": 15,
+    "sample": "... ... ..."
+  },
+  {
+    "bank": 2801,
+    "count": 89,
+    "stride": 8,
+    "nonempty": 48,
+    "sample": "<oneline><$comeff(3,5)><$facial(3,1)><$motion(3,806)><$voicel(3,6)>Yooo! <$cdef(27)><pname;0> </colo"
+  },
+  {
+    "bank": 2810,
+    "count": 23,
+    "stride": 8,
+    "nonempty": 10,
+    "sample": "<$comeff(1,14)><$facial(1,1)><$motion(1,806)><$voicel(1,5)>I’ve been pondering our problem for a bit"
+  },
+  {
+    "bank": 2819,
+    "count": 53,
+    "stride": 8,
+    "nonempty": 24,
+    "sample": "<oneline><$comeff(3,10)><$motion(3,659)><$voicel(3,9)><$cdef(27)><pname;0></color>! Let’s get the ve"
+  },
+  {
+    "bank": 2828,
+    "count": 42,
+    "stride": 8,
+    "nonempty": 26,
+    "sample": "<$comeff(2,11)><$motion(2,665)><$voicel(2,7)>Oh, my! Do you really need to eat that much, <$cdef(27)"
+  },
+  {
+    "bank": 2846,
+    "count": 77,
+    "stride": 8,
+    "nonempty": 35,
+    "sample": "<$voicel(3,7)><$emotion(3,49)>The <$cdef(27)>mood</color>’s gotten pretty legit, huh?! And it’s all "
+  },
+  {
+    "bank": 2855,
+    "count": 80,
+    "stride": 8,
+    "nonempty": 35,
+    "sample": "<oneline><$comeff(2,3)><$motion(2,803)><$voicel(2,7)>Oh, <$cdef(27)><pname;0></color>! The <$cdef(27"
+  },
+  {
+    "bank": 2864,
+    "count": 103,
+    "stride": 8,
+    "nonempty": 35,
+    "sample": "<$emotion(8,14)><$voicel(8,5)>Sounds like your friends are callin’ ya from down below,<br>bud. Go on"
+  },
+  {
+    "bank": 2873,
+    "count": 122,
+    "stride": 8,
+    "nonempty": 53,
+    "sample": "<oneline><$emotion(4,14)><$voicel(4,7)>Hey, <$cdef(27)><pname;0></color>! <$comeff(4,6)><$motion(4,6"
+  },
+  {
+    "bank": 2882,
+    "count": 89,
+    "stride": 8,
+    "nonempty": 44,
+    "sample": "<oneline><$comeff(4,3)><$facial(4,1)><$motion(4,661)><$voicel(4,8)>Question for ya, <$cdef(27)><pnam"
+  },
+  {
+    "bank": 2891,
+    "count": 54,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "<$comeff(1,4)><$motion(1,663)><$voicel(1,3)>*huff huff* My... *huff* That was...quite the walk.<br><"
+  },
+  {
+    "bank": 2900,
+    "count": 69,
+    "stride": 8,
+    "nonempty": 42,
+    "sample": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Hohoho! It’s thanks to you we were able to reach this<br"
+  },
+  {
+    "bank": 2909,
+    "count": 68,
+    "stride": 8,
+    "nonempty": 30,
+    "sample": "<oneline><$comeff(4,5)><$facial(4,1)><$motion(4,661)><$voicel(4,6)>Hey! Hey, <$cdef(27)><pname;0></c"
+  },
+  {
+    "bank": 2918,
+    "count": 92,
+    "stride": 8,
+    "nonempty": 39,
+    "sample": "<$comeff(2,6)><$facial(2,1)><$motion(2,803)><$voicel(2,6)>Well, could I ask ya to give me a hand wit"
+  },
+  {
+    "bank": 2927,
+    "count": 46,
+    "stride": 8,
+    "nonempty": 18,
+    "sample": "<$emotion(2,8)><$voicel(2,9)>We just gotta set up a <$cdef(27)><fqty(1)><$ifull(1457)></color> aroun"
+  },
+  {
+    "bank": 2936,
+    "count": 69,
+    "stride": 8,
+    "nonempty": 35,
+    "sample": "<$emotion(1,8)><$voicel(1,7)>Pokémon are now returning to this town at an encouraging<br>pace as wel"
+  },
+  {
+    "bank": 2945,
+    "count": 56,
+    "stride": 8,
+    "nonempty": 20,
+    "sample": "<oneline><$emotion(4,37)><$voicel(4,7)>Wow, you’re working really hard on this town,<br><$cdef(27)><"
+  },
+  {
+    "bank": 2954,
+    "count": 54,
+    "stride": 8,
+    "nonempty": 28,
+    "sample": "<$voicel(2,9)><$comeff(2,5)><$motion(2,664)><$facial(2,4)>This building is SO BIG! Seein’ it up clos"
+  },
+  {
+    "bank": 2963,
+    "count": 109,
+    "stride": 8,
+    "nonempty": 45,
+    "sample": "<$voicel(4,5)>Huh, you’re a new face. <$emotion(4,29)>What’s your deal?<clear><br><$voicel(4,3)><$co"
+  },
+  {
+    "bank": 2972,
+    "count": 73,
+    "stride": 8,
+    "nonempty": 25,
+    "sample": "<$voicel(4,5)><$emotion(4,29)>Oh, hello. Can I help you?<clear><br>What’s that? You want to make an "
+  },
+  {
+    "bank": 2981,
+    "count": 70,
+    "stride": 8,
+    "nonempty": 33,
+    "sample": "<$voicel(4,1)><$comeff(4,16)><$motion(4,805)><$facial(4,9)>*yaaawn*<br>I sure am sleepy. Where in ta"
+  },
+  {
+    "bank": 2990,
+    "count": 76,
+    "stride": 8,
+    "nonempty": 30,
+    "sample": "<$voicel(4,7)><$emotion(4,1)>Why, hello there! I sensed a visitor, but I wasn’t expecting<br>one as "
+  },
+  {
+    "bank": 2999,
+    "count": 120,
+    "stride": 8,
+    "nonempty": 13,
+    "sample": "<oneline><$emotion(4,37)><$voicel(4,9)>Heyyy! Hey, <$cdef(27)><pname;0></color>! I just had a super<"
+  },
+  {
+    "bank": 3008,
+    "count": 33,
+    "stride": 8,
+    "nonempty": 16,
+    "sample": "<$emotion(4,14)><$voicel(4,7)><$cdef(27)><pname;0></color>. I thank you for the home.<clear><br><$co"
+  },
+  {
+    "bank": 3017,
+    "count": 61,
+    "stride": 8,
+    "nonempty": 18,
+    "sample": "<$voicel(2,5)>To fix up the building, we’re gonna need lots of different<br>materials.<clear><br><$v"
+  },
+  {
+    "bank": 3026,
+    "count": 75,
+    "stride": 8,
+    "nonempty": 22,
+    "sample": "<$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,8)>I was thinkin’ we could make the <$cdef(27"
+  },
+  {
+    "bank": 3035,
+    "count": 74,
+    "stride": 8,
+    "nonempty": 31,
+    "sample": "<$voicel(2,5)>Now, I’d really love to make the <$cdef(27)>fourth floor</color> someplace<br>glitzy a"
+  },
+  {
+    "bank": 3044,
+    "count": 36,
+    "stride": 8,
+    "nonempty": 25,
+    "sample": "<$comeff(1,5)><$motion(1,664)><$voicel(1,7)>There’s someone on the <$cdef(27)>roof</color>! Would yo"
+  },
+  {
+    "bank": 3053,
+    "count": 49,
+    "stride": 8,
+    "nonempty": 16,
+    "sample": "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>Heya, <$cdef(27)><pname;0></color>. You got a sec?"
+  },
+  {
+    "bank": 3071,
+    "count": 75,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "<$voicel(1,7)><$motion(1,805)><$comeff(1,9)>Drif driiifff... Oh, hi... Nice to meet you. Are you, uh"
+  },
+  {
+    "bank": 3080,
+    "count": 227,
+    "stride": 8,
+    "nonempty": 79,
+    "sample": "<$comeff(1,3)><$voicel(1,6)>Art is hunger, and hunger is art..."
+  },
+  {
+    "bank": 3089,
+    "count": 79,
+    "stride": 8,
+    "nonempty": 45,
+    "sample": "There’s something odd about this <$cdef(27)><fqty(1)><$ifull(1055)></color>..."
+  },
+  {
+    "bank": 3098,
+    "count": 53,
+    "stride": 8,
+    "nonempty": 18,
+    "sample": "<$voicel(2,4)><$comeff(2,16)><$facial(2,3)><$motion(2,802)>*yaaaaaaaaaaaawn*<clear><br><$voicel(2,1)"
+  },
+  {
+    "bank": 3107,
+    "count": 206,
+    "stride": 8,
+    "nonempty": 104,
+    "sample": "<oneline><$emotion(2,14)><$voicel(2,5)>Pardon me, <$cdef(27)><pname;0></color>. I have a favor to<br"
+  },
+  {
+    "bank": 3116,
+    "count": 144,
+    "stride": 8,
+    "nonempty": 75,
+    "sample": "<$emotion(2,18)><$voicel(2,3)>*sigh* Great. Just great... I don’t wanna do anything...<clear><br><$e"
+  },
+  {
+    "bank": 3125,
+    "count": 82,
+    "stride": 8,
+    "nonempty": 39,
+    "sample": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>So this goes over there... No, wait, maybe here...<br><"
+  },
+  {
+    "bank": 3134,
+    "count": 52,
+    "stride": 8,
+    "nonempty": 25,
+    "sample": "<$voicel(2,7)><$motion(2,803)><$comeff(2,6)>Ayo, <$cdef(27)><pname;0></color>, do ya listen to music"
+  },
+  {
+    "bank": 3143,
+    "count": 45,
+    "stride": 8,
+    "nonempty": 20,
+    "sample": "<$comeff(1,3)><$motion(1,805)><$voicel(1,7)>Bzt! ♪ The open sky. The fresh air. The Pokémon. <$comef"
+  },
+  {
+    "bank": 3152,
+    "count": 111,
+    "stride": 8,
+    "nonempty": 71,
+    "sample": "<$emotion(2,18)><$voicel(2,3)>*sigh* This really isn’t turning out as planned. I’ve still a<br>long "
+  },
+  {
+    "bank": 3251,
+    "count": 391,
+    "stride": 8,
+    "nonempty": 370,
+    "sample": "<$comeff(1,9)><$facial(1,4)><$motionoff(1,804)><$voicel(1,10)>Yippee! Nice to meet you!<clear><br><$"
+  },
+  {
+    "bank": 3269,
+    "count": 37,
+    "stride": 8,
+    "nonempty": 23,
+    "sample": "<$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!"
+  },
+  {
+    "bank": 3278,
+    "count": 90,
+    "stride": 8,
+    "nonempty": 42,
+    "sample": "Welcome to the <$cdef(27)>Pokémon Center</color>.<clear><br>Would you like to rest your tired Pokémo"
+  },
+  {
+    "bank": 3287,
+    "count": 262,
+    "stride": 8,
+    "nonempty": 164,
+    "sample": "<$voicel(1,5)><$comeff(1,6)>Hm? What have you got there, <$cdef(27)><pname;0></color>?"
+  },
+  {
+    "bank": 3296,
+    "count": 372,
+    "stride": 8,
+    "nonempty": 229,
+    "sample": "<$emotion(1,50)><$voicel(1,9)>If you ever need something <$cdef(27)><$spwfull(21)>ed</color>, you kn"
+  },
+  {
+    "bank": 3314,
+    "count": 42,
+    "stride": 8,
+    "nonempty": 40,
+    "sample": "<$voicel(1,4)><$emotion(1,41)>Ow. It is pain.<clear><br><$voicel(1,1)><$comeff(1,17)><$motion(1,805)"
+  },
+  {
+    "bank": 3323,
+    "count": 10,
+    "stride": 8,
+    "nonempty": 10,
+    "sample": "<$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>Oho! I’ve got it! These are all items tha"
+  },
+  {
+    "bank": 3422,
+    "count": 244,
+    "stride": 8,
+    "nonempty": 138,
+    "sample": "<$comeff(1,6)><$motion(1,805)><$voicel(1,5)>Huh? I can’t find my <$cdef(27)><fqty(2)><$ifull(311)></"
+  },
+  {
+    "bank": 3521,
+    "count": 145,
+    "stride": 8,
+    "nonempty": 78,
+    "sample": "<$emotion(1,27)><oneline><$voicel(1,10)>Oho, <$cdef(27)><pname;0></color>! Splendid timing. <$comeff"
+  },
+  {
+    "bank": 3530,
+    "count": 170,
+    "stride": 8,
+    "nonempty": 87,
+    "sample": "<$comeff(2,3)><$motion(2,802)><$facial(2,2)><$voicel(2,7)>This place looks good—there’s a lotta room"
+  },
+  {
+    "bank": 3539,
+    "count": 119,
+    "stride": 8,
+    "nonempty": 50,
+    "sample": "<oneline><$emotion(4,27)><$voicel(4,7)>Oh, that’s right, <$cdef(27)><pname;0></color>! Could I borro"
+  },
+  {
+    "bank": 3548,
+    "count": 27,
+    "stride": 8,
+    "nonempty": 5,
+    "sample": "<$comeff(2,6)><$motion(2,805)><$facial(2,2)><$kfacial(2)><$voicel(2,6)>Who do you wanna know about?"
+  },
+  {
+    "bank": 3557,
+    "count": 129,
+    "stride": 8,
+    "nonempty": 48,
+    "sample": "<oneline><$voicel(4,3)><$emotion(4,14)>Yooo! <$cdef(27)><pname;0></color>! I’ve been meanin’ to tell"
+  },
+  {
+    "bank": 3566,
+    "count": 22,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "<$voicel(2,5)><$emotion(2,65)>That Pokémon was always hiding in the sand—oh, and I<br>might’ve seen "
+  },
+  {
+    "bank": 3575,
+    "count": 178,
+    "stride": 8,
+    "nonempty": 63,
+    "sample": "<$voicel(4,1)><$motion(4,802)><$facial(4,9)><$comeff(4,7)>*sigh* Not here either..."
+  },
+  {
+    "bank": 3584,
+    "count": 15,
+    "stride": 8,
+    "nonempty": 3,
+    "sample": "<$voicel(2,7)><$emotion(2,8)>That Pokémon loves big pieces of coral and cute<br>flower beds!"
+  },
+  {
+    "bank": 3593,
+    "count": 126,
+    "stride": 8,
+    "nonempty": 51,
+    "sample": "<$voicel(4,7)><$emotion(4,51)><$facial(4,9)>Ugh, I’m so bored... Where is everyone?"
+  },
+  {
+    "bank": 3602,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "<$voicel(2,5)><$emotion(2,65)>Hmm. Actually, I can kinda sense them around already."
+  },
+  {
+    "bank": 3611,
+    "count": 100,
+    "stride": 8,
+    "nonempty": 39,
+    "sample": "<$facial(4,9)><$voicel(4,1)>*sniffle sniffle*"
+  },
+  {
+    "bank": 3620,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 3,
+    "sample": "<$comeff(2,3)><$motion(2,803)><$voicel(2,5)>That Pokémon gets scared really easy and they HATE<br>da"
+  },
+  {
+    "bank": 3629,
+    "count": 129,
+    "stride": 8,
+    "nonempty": 57,
+    "sample": "<$voicel(4,2)>... ... ...<wait(2.0)><$lookat(4,0,0)><$lookat(4,1,0)><waitactor(4)><clear><br><$emoti"
+  },
+  {
+    "bank": 3638,
+    "count": 23,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "<$emotion(2,13)><$voicel(2,4)>That Pokémon loves to explore!"
+  },
+  {
+    "bank": 3647,
+    "count": 208,
+    "stride": 8,
+    "nonempty": 125,
+    "sample": "*ring ring!*"
+  },
+  {
+    "bank": 3791,
+    "count": 280,
+    "stride": 8,
+    "nonempty": 201,
+    "sample": "<$voicel(2,1)><$emotion(2,3)><$comeff(2,7)><$pkcry;0(2,4)>... Oooh, I’m absolutely starving."
+  },
+  {
+    "bank": 3800,
+    "count": 401,
+    "stride": 8,
+    "nonempty": 207,
+    "sample": "<$voicel(2,8)><$comeff(2,21)><$motion(2,805)>The wiiind sure does feel good today..."
+  },
+  {
+    "bank": 3809,
+    "count": 389,
+    "stride": 8,
+    "nonempty": 180,
+    "sample": "<$voicel(2,9)><$comeff(2,5)><$motion(2,644)><$facial(2,7)>HI-YAH!<clear><br><$voicel(2,3)><$comeff(2"
+  },
+  {
+    "bank": 3818,
+    "count": 389,
+    "stride": 8,
+    "nonempty": 169,
+    "sample": "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>And then, when I thought I was safe and could finally g"
+  },
+  {
+    "bank": 3827,
+    "count": 391,
+    "stride": 8,
+    "nonempty": 211,
+    "sample": "<$emotion(2,37)><$voicel(2,7)>Well, <$cdef(27)>Prinplup</color>? Do you finally understand how aweso"
+  },
+  {
+    "bank": 3836,
+    "count": 392,
+    "stride": 8,
+    "nonempty": 216,
+    "sample": "<$voicel(2,7)><$motion(2,806)><$facial(2,4)><$comeff(2,10)><$cdef(27)>Arcanine</color>! I challenge "
+  },
+  {
+    "bank": 3845,
+    "count": 401,
+    "stride": 8,
+    "nonempty": 197,
+    "sample": "<$voicel(1,3)><$motion(1,805)><$comeff(1,6)>W-well? What do you think? Did I get the dance right?"
+  },
+  {
+    "bank": 3854,
+    "count": 391,
+    "stride": 8,
+    "nonempty": 192,
+    "sample": "<$voicel(1,9)><$emotion(1,49)>Hey! Ever seen me swim?! I’m, like, super fast, yo! <$voicel(1,7)><$co"
+  },
+  {
+    "bank": 3863,
+    "count": 401,
+    "stride": 8,
+    "nonempty": 184,
+    "sample": "<$motion(1,803)><$voicel(1,8)><$pkcry;0(1,1)>! <$pkcry;1(1,2)>!<clear><br><$emotion(1,18)><$voicel(1"
+  },
+  {
+    "bank": 3872,
+    "count": 400,
+    "stride": 8,
+    "nonempty": 194,
+    "sample": "<$voicel(1,7)><$motion(1,803)><$comeff(1,3)>Hey! Hey, <$cdef(27)>Serperior</color>! How’d you get so"
+  },
+  {
+    "bank": 3881,
+    "count": 340,
+    "stride": 8,
+    "nonempty": 168,
+    "sample": "<$voicel(2,6)><$motionoff(2,814)><$comeff(2,14)>... ... ..."
+  },
+  {
+    "bank": 3890,
+    "count": 401,
+    "stride": 8,
+    "nonempty": 191,
+    "sample": "<$voicel(1,5)><$emotion(1,29)><$facial(1,4)>You look really happy, <$cdef(27)>Cleffa</color>! Anythi"
+  },
+  {
+    "bank": 3899,
+    "count": 400,
+    "stride": 8,
+    "nonempty": 206,
+    "sample": "<$comeff(1,13)><$motion(1,806)><$facial(1,4)><$voicel(1,7)>Not a single soul in sight on this dark a"
+  },
+  {
+    "bank": 3908,
+    "count": 331,
+    "stride": 8,
+    "nonempty": 178,
+    "sample": "<$comeff(1,22)><$motion(1,807)><$facial(1,1)><$voicel(1,7)>Hey! You! Who d’ya think you are, waltzin"
+  },
+  {
+    "bank": 4142,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "Vivid"
+  },
+  {
+    "bank": 4151,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 53,
+    "sample": "I"
+  },
+  {
+    "bank": 4169,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "*chomp chomp*"
+  },
+  {
+    "bank": 4178,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "*snarf snarf*"
+  },
+  {
+    "bank": 4187,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 91,
+    "sample": "*munch munch*"
+  },
+  {
+    "bank": 4196,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 90,
+    "sample": "*nom nom nom*"
+  },
+  {
+    "bank": 4205,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Om nom nom..."
+  },
+  {
+    "bank": 4214,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Food time, yo!"
+  },
+  {
+    "bank": 4223,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Time to dig in!"
+  },
+  {
+    "bank": 4232,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "I’ll dig right in."
+  },
+  {
+    "bank": 4241,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Time to chow down!"
+  },
+  {
+    "bank": 4250,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "*munch munch*"
+  },
+  {
+    "bank": 4259,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 88,
+    "sample": "*munch munch munch*"
+  },
+  {
+    "bank": 4268,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Thank you, I appreciate it."
+  },
+  {
+    "bank": 4277,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Food tiiiiiime."
+  },
+  {
+    "bank": 4286,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Thank you for this."
+  },
+  {
+    "bank": 4295,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "I’m gobbling this right up!"
+  },
+  {
+    "bank": 4304,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "Food! Nice!"
+  },
+  {
+    "bank": 4313,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 89,
+    "sample": "*munch munch*"
+  },
+  {
+    "bank": 4322,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 33,
+    "sample": "Mmm..."
+  },
+  {
+    "bank": 4331,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 45,
+    "sample": "Well, without further ado."
+  },
+  {
+    "bank": 4340,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Give <$cdef(27)><dgt2;1(lnum2)></color> <$cdef(27)><class><$inamewithnum;0(lnum1,lnum2)></color>!"
+  },
+  {
+    "bank": 4349,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Presents, please!"
+  },
+  {
+    "bank": 4358,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I want this... Pretty please?"
+  },
+  {
+    "bank": 4367,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Any of these lying around?"
+  },
+  {
+    "bank": 4376,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I wish I could have this..."
+  },
+  {
+    "bank": 4385,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Y’know, I’d be SUPER happy if somebody got me a<br>present like this!"
+  },
+  {
+    "bank": 4394,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "This is what I, um...want."
+  },
+  {
+    "bank": 4403,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Yooo, I would LOVE to have this!"
+  },
+  {
+    "bank": 4412,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "You’re gonna get me this? For real?"
+  },
+  {
+    "bank": 4421,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Here’s the kinda thing I want."
+  },
+  {
+    "bank": 4430,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I’m lookin’ for something like THIS!"
+  },
+  {
+    "bank": 4439,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I-I’d be really happy if...if I could have this."
+  },
+  {
+    "bank": 4448,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Sure would love somethin’ like this, I tell ya what!"
+  },
+  {
+    "bank": 4457,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "What I require right now is..."
+  },
+  {
+    "bank": 4466,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Sure would looove this..."
+  },
+  {
+    "bank": 4475,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "May I have this? That would be lovely!"
+  },
+  {
+    "bank": 4484,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Oh my—would you really give this to me?<br>I’ll be waiting!"
+  },
+  {
+    "bank": 4493,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I can’t find this! Could ya help me out, bud?"
+  },
+  {
+    "bank": 4502,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "I want this."
+  },
+  {
+    "bank": 4529,
+    "count": 71,
+    "stride": 8,
+    "nonempty": 58,
+    "sample": "Face"
+  },
+  {
+    "bank": 4538,
+    "count": 501,
+    "stride": 12,
+    "nonempty": 514,
+    "sample": "tree-shaded tall grass"
+  },
+  {
+    "bank": 4547,
+    "count": 501,
+    "stride": 8,
+    "nonempty": 257,
+    "sample": "Shaded tall grass that stays cool, even in the<br>midday sun. Pokémon might stop by to relax."
+  },
+  {
+    "bank": 4556,
+    "count": 31,
+    "stride": 8,
+    "nonempty": 20,
+    "sample": "Short"
+  },
+  {
+    "bank": 4565,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 32,
+    "sample": "Familiar hat #1"
+  },
+  {
+    "bank": 4574,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "Buy a <$cdef(27)><fqty(1)><$iname(326)></color> from the <$cdef(27)>shop </color>and rebuild the<br>"
+  },
+  {
+    "bank": 4583,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "Rebuild the <$cdef(27)>Pokémon Center</color>!"
+  },
+  {
+    "bank": 4592,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 43,
+    "sample": "Go talk to more Pokémon and ask them to<br>help out!"
+  },
+  {
+    "bank": 4601,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Please enter your town’s name."
+  },
+  {
+    "bank": 4610,
+    "count": 801,
+    "stride": 8,
+    "nonempty": 603,
+    "sample": "<$kgfull;0(lnum1)>"
+  },
+  {
+    "bank": 4619,
+    "count": 21,
+    "stride": 8,
+    "nonempty": 15,
+    "sample": "Furniture"
+  },
+  {
+    "bank": 4628,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 74,
+    "sample": "Seat (any)"
+  },
+  {
+    "bank": 4637,
+    "count": 3001,
+    "stride": 8,
+    "nonempty": 1639,
+    "sample": "Fwoosh! This candle glows with a bluish flame<br>when lit. It’s small enough to fit on top of a desk"
+  },
+  {
+    "bank": 4646,
+    "count": 3001,
+    "stride": 32,
+    "nonempty": 9076,
+    "sample": "Bulbasaur’s gift"
+  },
+  {
+    "bank": 4655,
+    "count": 256,
+    "stride": 8,
+    "nonempty": 233,
+    "sample": "Open"
+  },
+  {
+    "bank": 4664,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "English"
+  },
+  {
+    "bank": 4673,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 41,
+    "sample": "Familiar pants #1"
+  },
+  {
+    "bank": 4682,
+    "count": 21,
+    "stride": 8,
+    "nonempty": 10,
+    "sample": "Pokédex"
+  },
+  {
+    "bank": 4691,
+    "count": 100,
+    "stride": 8,
+    "nonempty": 99,
+    "sample": "晴れ　時々　曇り<br>ごく一部の地域では　<br>小雨が降るでしょう"
+  },
+  {
+    "bank": 4700,
+    "count": 81,
+    "stride": 8,
+    "nonempty": 34,
+    "sample": "March 7 — Sunny<br><br>Today I played with Kenta in the park.<br><br>Kenta says he’s gonna move soon"
+  },
+  {
+    "bank": 4709,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 6,
+    "sample": "How are you doing?<br>I’ve been having a fun day fishing—as always!<br><br>By the way, have Pokémon "
+  },
+  {
+    "bank": 4718,
+    "count": 128,
+    "stride": 8,
+    "nonempty": 56,
+    "sample": "This issue’s feature article is all about Vespiquen!<br>What is the Beehive Pokémon’s surprising rea"
+  },
+  {
+    "bank": 4727,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 18,
+    "sample": "Cucumber<br>Tofu (3 packs)<br>Vinegar<br>Slowpoke Tail<br>Berry juice<br>Toilet paper<br>Toothbrush"
+  },
+  {
+    "bank": 4736,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 15,
+    "sample": "Clear with periodic clouds. Expect light showers in<br>some areas.<br><br>No warnings or reports abo"
+  },
+  {
+    "bank": 4745,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "Shellos changes its color and appearance based on its<br>diet and the environment it lives in.<br><b"
+  },
+  {
+    "bank": 4754,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 13,
+    "sample": "A cute photo of Pokémon!"
+  },
+  {
+    "bank": 4763,
+    "count": 81,
+    "stride": 8,
+    "nonempty": 29,
+    "sample": "I’ve decided to give this social media thing a whirl.<br>Today’s my first go at it!<br><br>Why? To b"
+  },
+  {
+    "bank": 4772,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "You know how much I love swimming—it’s basically<br>my whole personality. So not being able to swim?"
+  },
+  {
+    "bank": 4781,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "• Maintain a comfortable level of brightness and<br>   temperature in your house.<br>• Don’t hold ba"
+  },
+  {
+    "bank": 4790,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 5,
+    "sample": "The region in question was once inhabited by a<br>famous clan of ninjas.<br><br>Koga, a Fuchsia City"
+  },
+  {
+    "bank": 4799,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 5,
+    "sample": "A cute photo of Pokémon!"
+  },
+  {
+    "bank": 4808,
+    "count": 61,
+    "stride": 8,
+    "nonempty": 1,
+    "sample": "There must be something at the spot marked on the<br>map. Try getting a Pokémon with the <fcap><$spw"
+  },
+  {
+    "bank": 4817,
+    "count": 256,
+    "stride": 8,
+    "nonempty": 15,
+    "sample": "Early-Purchase Bonus"
+  },
+  {
+    "bank": 4826,
+    "count": 22,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "Communication error. Please wait and try again.<br>If this error appears repeatedly, please check yo"
+  },
+  {
+    "bank": 4835,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 51,
+    "sample": "Someone created a new habitat."
+  },
+  {
+    "bank": 4844,
+    "count": 21,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "Create a new Cloud Island"
+  },
+  {
+    "bank": 4853,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 7,
+    "sample": "Visit a Friend"
+  },
+  {
+    "bank": 4862,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 2,
+    "sample": "What do you want to do?"
+  },
+  {
+    "bank": 4871,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 30,
+    "sample": "Music notes"
+  },
+  {
+    "bank": 4880,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 6,
+    "sample": "Challenges"
+  },
+  {
+    "bank": 4889,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 374,
+    "sample": "It carries a seed on its back right from birth. As its body grows<br>larger, the seed does too."
+  },
+  {
+    "bank": 4898,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "Paldean Form"
+  },
+  {
+    "bank": 4916,
+    "count": 1000,
+    "stride": 8,
+    "nonempty": 374,
+    "sample": "Seed Pokémon"
+  },
+  {
+    "bank": 4934,
+    "count": 1024,
+    "stride": 8,
+    "nonempty": 374,
+    "sample": "Pikachu"
+  },
+  {
+    "bank": 4943,
+    "count": 61,
+    "stride": 8,
+    "nonempty": 11,
+    "sample": "Leafage"
+  },
+  {
+    "bank": 4952,
+    "count": 61,
+    "stride": 8,
+    "nonempty": 8,
+    "sample": "Plants tall grass directly in front of you (or dry tall<br>grass if the ground is dried up). There a"
+  },
+  {
+    "bank": 4961,
+    "count": 32,
+    "stride": 8,
+    "nonempty": 18,
+    "sample": "Normal"
+  },
+  {
+    "bank": 4970,
+    "count": 11,
+    "stride": 8,
+    "nonempty": 2,
+    "sample": "Talk to this Pokémon!"
+  },
+  {
+    "bank": 4988,
+    "count": 32,
+    "stride": 8,
+    "nonempty": 6,
+    "sample": "Wasteland Dream Island"
+  },
+  {
+    "bank": 4997,
+    "count": 6,
+    "stride": 8,
+    "nonempty": 5,
+    "sample": "Iffy"
+  },
+  {
+    "bank": 5006,
+    "count": 13,
+    "stride": 8,
+    "nonempty": 11,
+    "sample": "Food"
+  },
+  {
+    "bank": 5015,
+    "count": 13,
+    "stride": 8,
+    "nonempty": 6,
+    "sample": "It got warmer"
+  },
+  {
+    "bank": 5024,
+    "count": 13,
+    "stride": 8,
+    "nonempty": 6,
+    "sample": "It got hotter"
+  },
+  {
+    "bank": 5033,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 10,
+    "sample": "I want something!"
+  },
+  {
+    "bank": 5042,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 29,
+    "sample": "you"
+  },
+  {
+    "bank": 5051,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 33,
+    "sample": "Familiar sneakers"
+  },
+  {
+    "bank": 5060,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 50,
+    "sample": "A Hypnotizing Lullaby"
+  },
+  {
+    "bank": 5069,
+    "count": 1500,
+    "stride": 8,
+    "nonempty": 370,
+    "sample": "This way!"
+  },
+  {
+    "bank": 5078,
+    "count": 64,
+    "stride": 8,
+    "nonempty": 33,
+    "sample": "build"
+  },
+  {
+    "bank": 5087,
+    "count": 32,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Withered Wasteland"
+  },
+  {
+    "bank": 5096,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 52,
+    "sample": "Pick up a <$cdef(27)><fqty(1)><$iname(2340)> </color>and give it to <$cdef(27)><$cname;0(13)> </colo"
+  },
+  {
+    "bank": 5105,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 52,
+    "sample": "<$cdef(27)><fqty(2)><$iname(2340)></color>, please!"
+  },
+  {
+    "bank": 5114,
+    "count": 101,
+    "stride": 8,
+    "nonempty": 52,
+    "sample": "You can use <$cdef(27)>Headbutt </color>on a tree to make<br><$cdef(27)><fqty(2)><class><$iname(2340"
+  },
+  {
+    "bank": 5123,
+    "count": 354,
+    "stride": 8,
+    "nonempty": 257,
+    "sample": "Find a Pokémon with the <$cdef(27)><fcap><$spwname(11)></color> specialty to help you."
+  },
+  {
+    "bank": 5132,
+    "count": 31,
+    "stride": 8,
+    "nonempty": 21,
+    "sample": "Good morning!"
+  },
+  {
+    "bank": 5141,
+    "count": 5,
+    "stride": 8,
+    "nonempty": 4,
+    "sample": "Beginner"
+  },
+  {
+    "bank": 5150,
+    "count": 1701,
+    "stride": 8,
+    "nonempty": 299,
+    "sample": "You can use moves by pressing <$keyicon(1)>. Using a move reduces<br>your <$cdef(27)>PP</color>. You"
+  },
+  {
+    "bank": 5159,
+    "count": 16,
+    "stride": 8,
+    "nonempty": 9,
+    "sample": "Basic Controls"
+  },
+  {
+    "bank": 5168,
+    "count": 501,
+    "stride": 8,
+    "nonempty": 212,
+    "sample": "You can use moves you’ve learned by<br>pressing <$keyicon(1)>."
+  },
+  {
+    "bank": 5177,
+    "count": 501,
+    "stride": 8,
+    "nonempty": 235,
+    "sample": "Using Moves"
+  },
+  {
+    "bank": 5186,
+    "count": 251,
+    "stride": 8,
+    "nonempty": 150,
+    "sample": "<$cdef(27)><fcap><$spwname(1)></color> a <$cdef(27)><$bname(12)></color>, then invite <$cdef(27)><$c"
+  },
+  {
+    "bank": 5195,
+    "count": 251,
+    "stride": 8,
+    "nonempty": 150,
+    "sample": "Househunting!"
+  },
+  {
+    "bank": 5204,
+    "count": 251,
+    "stride": 8,
+    "nonempty": 150,
+    "sample": "Lemme know if you make a house with a roof!"
+  },
+  {
+    "bank": 5213,
+    "count": 51,
+    "stride": 8,
+    "nonempty": 41,
+    "sample": "Familiar top #1"
+  }
+]

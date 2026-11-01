@@ -1,0 +1,42 @@
+{
+  "source_files": {
+    "LD_C0_R.BIN": {
+      "sha256": "2ea76fd78d5d2c0111fc2e3d8258ed35faaad6a52420d7fdee7c8a2ed2122433",
+      "bytes": 247317504
+    },
+    "LI_C0_R.IDX": {
+      "sha256": "86fb3fae4e3092594e45c350f7f12e4cbe4a53b513f07c1f38498f6ec988c0b1",
+      "bytes": 393536
+    }
+  },
+  "installed_files": {
+    "LD_C0_R.BIN": {
+      "sha256": "2ea76fd78d5d2c0111fc2e3d8258ed35faaad6a52420d7fdee7c8a2ed2122433",
+      "bytes": 247317504
+    },
+    "LI_C0_R.IDX": {
+      "sha256": "86fb3fae4e3092594e45c350f7f12e4cbe4a53b513f07c1f38498f6ec988c0b1",
+      "bytes": 393536
+    }
+  },
+  "upstream_files": {
+    "LD_C0_R.BIN": {
+      "sha256": "41a15ee18a4571a226dfa52823fa43b845158821eda33074973609b662862c32",
+      "bytes": 184616960
+    },
+    "LI_C0_R.IDX": {
+      "sha256": "640d956722cbdf79a113dbc98dde863549bbf87020f9bdc4deacffe703a4edbd",
+      "bytes": 377056
+    }
+  },
+  "entries": 12298,
+  "upstream_entries": 11783,
+  "v2_tables": 2702,
+  "localized_groups": 274,
+  "upstream_localized_groups": 252,
+  "version_label_supplied_by_user": "2.0.1a (655360)",
+  "version_label_independently_verified": false,
+  "main_sha256": "8a8ce87b4edfce88c6260da5dd80d6cafc03a761eebc842d7a3476e353a8336f",
+  "main_build_id": "76A489F3BD3642FA5E18BD83D32C98BACC5F7D0E000000000000000000000000",
+  "title_id": "0400A3A01EE4C000"
+}

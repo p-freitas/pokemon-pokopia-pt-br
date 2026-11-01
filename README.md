@@ -1,5 +1,7 @@
 # Pokémon Pokopia — Tradução PT-BR
 
+**Desenvolvimento experimental para os dados identificados como 2.0.1a / 655360:** consulte [o guia específico](docs/655360/GUIA.md). Os arquivos abaixo em `romfs/` continuam sendo os originais publicados para 1.0.4; não instale esse par antigo sobre o update 655360.
+
 ## Sobre o projeto
 
 Tradução comunitária não oficial de **Pokémon Pokopia 1.0.4** para português brasileiro, por **LucianoNeo**, feita com auxílio de inteligência artificial e revisão manual.

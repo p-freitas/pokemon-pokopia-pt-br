@@ -1,0 +1,539 @@
+{"id":"b02198:r00010:f00","source":"Basin Pokémon Center","translation":"Centro Pokémon da Bacia"}
+{"id":"b02198:r00075:f00","source":"imperial cottage","translation":"chalé imperial"}
+{"id":"b02198:r00076:f00","source":"imperial house","translation":"casa imperial"}
+{"id":"b02198:r00077:f00","source":"Sharpedo submarine","translation":"submarino de Sharpedo"}
+{"id":"b02198:r00080:f00","source":"Dewgong clock tower","translation":"torre do relógio de Dewgong"}
+{"id":"b04646:r00351:f12","source":"chimney rock cluster","translation":"aglomerado de chaminés rochosas"}
+{"id":"b04646:r00351:f20","source":"chimney rock clusters","translation":"aglomerados de chaminés rochosas"}
+{"id":"b04646:r00353:f00","source":"blooming watermelon plant","translation":"pé de melancia florido"}
+{"id":"b04646:r00353:f08","source":"blooming watermelon plants","translation":"pés de melancia floridos"}
+{"id":"b04646:r00353:f12","source":"blooming watermelon plant","translation":"pé de melancia florido"}
+{"id":"b04646:r00353:f20","source":"blooming watermelon plants","translation":"pés de melancia floridos"}
+{"id":"b04646:r00361:f00","source":"blender","translation":"liquidificador"}
+{"id":"b04646:r00361:f08","source":"blenders","translation":"liquidificadores"}
+{"id":"b04646:r00361:f12","source":"blender","translation":"liquidificador"}
+{"id":"b04646:r00361:f20","source":"blenders","translation":"liquidificadores"}
+{"id":"b04646:r00362:f00","source":"cycle shop sign","translation":"placa de bicicletaria"}
+{"id":"b04646:r00362:f08","source":"cycle shop signs","translation":"placas de bicicletaria"}
+{"id":"b04646:r00362:f12","source":"cycle shop sign","translation":"placa de bicicletaria"}
+{"id":"b04646:r00362:f20","source":"cycle shop signs","translation":"placas de bicicletaria"}
+{"id":"b04646:r00364:f00","source":"gift shop sign","translation":"placa de loja de presentes"}
+{"id":"b04646:r00364:f08","source":"gift shop signs","translation":"placas de loja de presentes"}
+{"id":"b04646:r00364:f12","source":"gift shop sign","translation":"placa de loja de presentes"}
+{"id":"b04646:r00364:f20","source":"gift shop signs","translation":"placas de loja de presentes"}
+{"id":"b04646:r00366:f00","source":"café sign","translation":"placa de café"}
+{"id":"b04646:r00366:f08","source":"café signs","translation":"placas de café"}
+{"id":"b04646:r00366:f12","source":"café sign","translation":"placa de café"}
+{"id":"b04646:r00366:f20","source":"café signs","translation":"placas de café"}
+{"id":"b04646:r00383:f00","source":"glass pane","translation":"painel de vidro"}
+{"id":"b04646:r00383:f08","source":"glass panes","translation":"painéis de vidro"}
+{"id":"b04646:r00383:f12","source":"glass pane","translation":"painel de vidro"}
+{"id":"b04646:r00383:f20","source":"glass panes","translation":"painéis de vidro"}
+{"id":"b04646:r00385:f00","source":"music box","translation":"caixa de música"}
+{"id":"b04646:r00385:f08","source":"music boxes","translation":"caixas de música"}
+{"id":"b04646:r00385:f12","source":"music box","translation":"caixa de música"}
+{"id":"b04646:r00385:f20","source":"music boxes","translation":"caixas de música"}
+{"id":"b04646:r00391:f00","source":"hanging sign","translation":"placa suspensa"}
+{"id":"b04646:r00391:f08","source":"hanging signs","translation":"placas suspensas"}
+{"id":"b04646:r00391:f12","source":"hanging sign","translation":"placa suspensa"}
+{"id":"b04646:r00391:f20","source":"hanging signs","translation":"placas suspensas"}
+{"id":"b04646:r00392:f00","source":"glass pane (horizontal)","translation":"painel de vidro (horizontal)"}
+{"id":"b04646:r00392:f08","source":"glass panes (horizontal)","translation":"painéis de vidro (horizontais)"}
+{"id":"b04646:r00392:f12","source":"glass pane (horizontal)","translation":"painel de vidro (horizontal)"}
+{"id":"b04646:r00392:f20","source":"glass panes (horizontal)","translation":"painéis de vidro (horizontais)"}
+{"id":"b04646:r00401:f00","source":"Trevenant streetlight","translation":"poste de Trevenant"}
+{"id":"b04646:r00401:f08","source":"Trevenant streetlights","translation":"postes de Trevenant"}
+{"id":"b04646:r00401:f12","source":"Trevenant streetlight","translation":"poste de Trevenant"}
+{"id":"b04646:r00401:f20","source":"Trevenant streetlights","translation":"postes de Trevenant"}
+{"id":"b04646:r00402:f00","source":"ghost smoke projector","translation":"projetor de fumaça fantasma"}
+{"id":"b04646:r00402:f08","source":"ghost smoke projectors","translation":"projetores de fumaça fantasma"}
+{"id":"b04646:r00402:f12","source":"ghost smoke projector","translation":"projetor de fumaça fantasma"}
+{"id":"b04646:r00402:f20","source":"ghost smoke projectors","translation":"projetores de fumaça fantasma"}
+{"id":"b04646:r00403:f00","source":"candy bucket","translation":"balde de doces"}
+{"id":"b04646:r00403:f08","source":"candy buckets","translation":"baldes de doces"}
+{"id":"b04646:r00403:f12","source":"candy bucket","translation":"balde de doces"}
+{"id":"b04646:r00403:f20","source":"candy buckets","translation":"baldes de doces"}
+{"id":"b04646:r00404:f00","source":"huge table","translation":"mesa enorme"}
+{"id":"b04646:r00404:f08","source":"huge tables","translation":"mesas enormes"}
+{"id":"b04646:r00404:f12","source":"huge table","translation":"mesa enorme"}
+{"id":"b04646:r00404:f20","source":"huge tables","translation":"mesas enormes"}
+{"id":"b04646:r00405:f00","source":"Cofagrigus locker","translation":"armário de Cofagrigus"}
+{"id":"b04646:r00405:f08","source":"Cofagrigus lockers","translation":"armários de Cofagrigus"}
+{"id":"b04646:r00405:f12","source":"Cofagrigus locker","translation":"armário de Cofagrigus"}
+{"id":"b04646:r00405:f20","source":"Cofagrigus lockers","translation":"armários de Cofagrigus"}
+{"id":"b04646:r00407:f00","source":"eerie statue","translation":"estátua sinistra"}
+{"id":"b04646:r00407:f08","source":"eerie statues","translation":"estátuas sinistras"}
+{"id":"b04646:r00407:f12","source":"eerie statue","translation":"estátua sinistra"}
+{"id":"b04646:r00407:f20","source":"eerie statues","translation":"estátuas sinistras"}
+{"id":"b04646:r00408:f00","source":"Syrupy Apple","translation":"Maçã Melada"}
+{"id":"b04646:r00408:f08","source":"Syrupy Apples","translation":"Maçãs Meladas"}
+{"id":"b04646:r00408:f12","source":"Syrupy Apple","translation":"Maçã Melada"}
+{"id":"b04646:r00408:f20","source":"Syrupy Apples","translation":"Maçãs Meladas"}
+{"id":"b04646:r00410:f00","source":"apple pie","translation":"torta de maçã"}
+{"id":"b04646:r00410:f08","source":"apple pies","translation":"tortas de maçã"}
+{"id":"b04646:r00410:f12","source":"apple pie","translation":"torta de maçã"}
+{"id":"b04646:r00410:f20","source":"apple pies","translation":"tortas de maçã"}
+{"id":"b04646:r00411:f00","source":"harvest basket","translation":"cesta de colheita"}
+{"id":"b04646:r00411:f08","source":"harvest baskets","translation":"cestas de colheita"}
+{"id":"b04646:r00411:f12","source":"harvest basket","translation":"cesta de colheita"}
+{"id":"b04646:r00411:f20","source":"harvest baskets","translation":"cestas de colheita"}
+{"id":"b04646:r00412:f00","source":"appley blender","translation":"liquidificador de maçã"}
+{"id":"b04646:r00412:f08","source":"appley blenders","translation":"liquidificadores de maçã"}
+{"id":"b04646:r00412:f12","source":"appley blender","translation":"liquidificador de maçã"}
+{"id":"b04646:r00412:f20","source":"appley blenders","translation":"liquidificadores de maçã"}
+{"id":"b04646:r00420:f00","source":"Dipplin mixing bowl","translation":"tigela de Dipplin"}
+{"id":"b04646:r00420:f08","source":"Dipplin mixing bowls","translation":"tigelas de Dipplin"}
+{"id":"b04646:r00420:f12","source":"Dipplin mixing bowl","translation":"tigela de Dipplin"}
+{"id":"b04646:r00420:f20","source":"Dipplin mixing bowls","translation":"tigelas de Dipplin"}
+{"id":"b04646:r00421:f00","source":"kitchen scale","translation":"balança de cozinha"}
+{"id":"b04646:r00421:f08","source":"kitchen scales","translation":"balanças de cozinha"}
+{"id":"b04646:r00421:f12","source":"kitchen scale","translation":"balança de cozinha"}
+{"id":"b04646:r00421:f20","source":"kitchen scales","translation":"balanças de cozinha"}
+{"id":"b04646:r00425:f00","source":"Syrupy Apple tree sapling","translation":"muda de macieira melada"}
+{"id":"b04646:r00425:f08","source":"Syrupy Apple tree saplings","translation":"mudas de macieira melada"}
+{"id":"b04646:r00425:f12","source":"Syrupy Apple tree sapling","translation":"muda de macieira melada"}
+{"id":"b04646:r00425:f20","source":"Syrupy Apple tree saplings","translation":"mudas de macieira melada"}
+{"id":"b04646:r00427:f00","source":"Syrupy Apple tree","translation":"macieira melada"}
+{"id":"b04646:r00427:f08","source":"Syrupy Apple trees","translation":"macieiras meladas"}
+{"id":"b04646:r00427:f12","source":"Syrupy Apple tree","translation":"macieira melada"}
+{"id":"b04646:r00427:f20","source":"Syrupy Apple trees","translation":"macieiras meladas"}
+{"id":"b04646:r00428:f00","source":"Syrupy Apple tree stump","translation":"toco de macieira melada"}
+{"id":"b04646:r00428:f08","source":"Syrupy Apple tree stumps","translation":"tocos de macieira melada"}
+{"id":"b04646:r00428:f12","source":"Syrupy Apple tree stump","translation":"toco de macieira melada"}
+{"id":"b04646:r00428:f20","source":"Syrupy Apple tree stumps","translation":"tocos de macieira melada"}
+{"id":"b04646:r00471:f00","source":"flat scale roof","translation":"telhado de escamas plano"}
+{"id":"b04646:r00471:f08","source":"flat scale roofs","translation":"telhados de escamas planos"}
+{"id":"b04646:r00522:f00","source":"Starmie doll","translation":"boneca de Starmie"}
+{"id":"b04646:r00522:f08","source":"Starmie dolls","translation":"bonecas de Starmie"}
+{"id":"b04646:r00522:f12","source":"Starmie doll","translation":"boneca de Starmie"}
+{"id":"b04646:r00522:f20","source":"Starmie dolls","translation":"bonecas de Starmie"}
+{"id":"b04646:r00523:f00","source":"bubble machine","translation":"máquina de bolhas"}
+{"id":"b04646:r00523:f08","source":"bubble machines","translation":"máquinas de bolhas"}
+{"id":"b04646:r00523:f12","source":"bubble machine","translation":"máquina de bolhas"}
+{"id":"b04646:r00523:f20","source":"bubble machines","translation":"máquinas de bolhas"}
+{"id":"b04646:r00524:f00","source":"ocean door","translation":"porta oceânica"}
+{"id":"b04646:r00524:f08","source":"ocean doors","translation":"portas oceânicas"}
+{"id":"b04646:r00524:f12","source":"ocean door","translation":"porta oceânica"}
+{"id":"b04646:r00524:f20","source":"ocean doors","translation":"portas oceânicas"}
+{"id":"b04646:r00525:f00","source":"Primarina statue","translation":"estátua de Primarina"}
+{"id":"b04646:r00525:f08","source":"Primarina statues","translation":"estátuas de Primarina"}
+{"id":"b04646:r00525:f12","source":"Primarina statue","translation":"estátua de Primarina"}
+{"id":"b04646:r00525:f20","source":"Primarina statues","translation":"estátuas de Primarina"}
+{"id":"b04646:r00526:f00","source":"Gyarados fountain","translation":"fonte de Gyarados"}
+{"id":"b04646:r00526:f08","source":"Gyarados fountains","translation":"fontes de Gyarados"}
+{"id":"b04646:r00526:f12","source":"Gyarados fountain","translation":"fonte de Gyarados"}
+{"id":"b04646:r00526:f20","source":"Gyarados fountains","translation":"fontes de Gyarados"}
+{"id":"b04646:r00529:f00","source":"interior door","translation":"porta interna"}
+{"id":"b04646:r00529:f08","source":"interior doors","translation":"portas internas"}
+{"id":"b04646:r00529:f12","source":"interior door","translation":"porta interna"}
+{"id":"b04646:r00529:f20","source":"interior doors","translation":"portas internas"}
+{"id":"b04646:r00531:f00","source":"hatch","translation":"escotilha"}
+{"id":"b04646:r00531:f08","source":"hatches","translation":"escotilhas"}
+{"id":"b04646:r00531:f12","source":"hatch","translation":"escotilha"}
+{"id":"b04646:r00531:f20","source":"hatches","translation":"escotilhas"}
+{"id":"b04646:r00533:f00","source":"Cursola light","translation":"luminária de Cursola"}
+{"id":"b04646:r00533:f08","source":"Cursola lights","translation":"luminárias de Cursola"}
+{"id":"b04646:r00533:f12","source":"Cursola light","translation":"luminária de Cursola"}
+{"id":"b04646:r00533:f20","source":"Cursola lights","translation":"luminárias de Cursola"}
+{"id":"b04646:r00535:f00","source":"Chimecho wind chime","translation":"sino dos ventos de Chimecho"}
+{"id":"b04646:r00535:f08","source":"Chimecho wind chimes","translation":"sinos dos ventos de Chimecho"}
+{"id":"b04646:r00535:f12","source":"Chimecho wind chime","translation":"sino dos ventos de Chimecho"}
+{"id":"b04646:r00535:f20","source":"Chimecho wind chimes","translation":"sinos dos ventos de Chimecho"}
+{"id":"b04646:r00536:f00","source":"Wig-Wug rug","translation":"tapete Wig-Wug"}
+{"id":"b04646:r00536:f08","source":"Wig-Wug rugs","translation":"tapetes Wig-Wug"}
+{"id":"b04646:r00536:f12","source":"Wig-Wug rug","translation":"tapete Wig-Wug"}
+{"id":"b04646:r00536:f20","source":"Wig-Wug rugs","translation":"tapetes Wig-Wug"}
+{"id":"b04646:r00537:f00","source":"ocean pals rug","translation":"tapete dos amigos do oceano"}
+{"id":"b04646:r00537:f08","source":"ocean pals rugs","translation":"tapetes dos amigos do oceano"}
+{"id":"b04646:r00537:f12","source":"ocean pals rug","translation":"tapete dos amigos do oceano"}
+{"id":"b04646:r00537:f20","source":"ocean pals rugs","translation":"tapetes dos amigos do oceano"}
+{"id":"b04646:r00541:f00","source":"gradient wall (upper)","translation":"parede em degradê (superior)"}
+{"id":"b04646:r00541:f08","source":"gradient walls (upper)","translation":"paredes em degradê (superiores)"}
+{"id":"b04646:r00542:f00","source":"gradient wall (lower)","translation":"parede em degradê (inferior)"}
+{"id":"b04646:r00542:f08","source":"gradient walls (lower)","translation":"paredes em degradê (inferiores)"}
+{"id":"b04646:r00549:f00","source":"lacquered wall","translation":"parede laqueada"}
+{"id":"b04646:r00549:f08","source":"lacquered walls","translation":"paredes laqueadas"}
+{"id":"b04646:r00550:f00","source":"metal wall","translation":"parede de metal"}
+{"id":"b04646:r00550:f08","source":"metal walls","translation":"paredes de metal"}
+{"id":"b04646:r00551:f00","source":"ornate wall","translation":"parede ornamentada"}
+{"id":"b04646:r00551:f08","source":"ornate walls","translation":"paredes ornamentadas"}
+{"id":"b04646:r00555:f00","source":"ocean temple kit","translation":"kit de templo oceânico"}
+{"id":"b04646:r00555:f08","source":"ocean temple kits","translation":"kits de templo oceânico"}
+{"id":"b04646:r00555:f12","source":"ocean temple kit","translation":"kit de templo oceânico"}
+{"id":"b04646:r00555:f20","source":"ocean temple kits","translation":"kits de templo oceânico"}
+{"id":"b04646:r00556:f00","source":"big treasure chest","translation":"baú do tesouro grande"}
+{"id":"b04646:r00556:f08","source":"big treasure chests","translation":"baús do tesouro grandes"}
+{"id":"b04646:r00556:f12","source":"big treasure chest","translation":"baú do tesouro grande"}
+{"id":"b04646:r00556:f20","source":"big treasure chests","translation":"baús do tesouro grandes"}
+{"id":"b04646:r00562:f00","source":"mossy ocean boulder","translation":"rochedo oceânico com musgo"}
+{"id":"b04646:r00562:f08","source":"mossy ocean boulders","translation":"rochedos oceânicos com musgo"}
+{"id":"b04646:r00562:f12","source":"mossy ocean boulder","translation":"rochedo oceânico com musgo"}
+{"id":"b04646:r00562:f20","source":"mossy ocean boulders","translation":"rochedos oceânicos com musgo"}
+{"id":"b04646:r00563:f00","source":"carved blue rock","translation":"rocha azul esculpida"}
+{"id":"b04646:r00563:f08","source":"carved blue rocks","translation":"rochas azuis esculpidas"}
+{"id":"b04646:r00563:f12","source":"carved blue rock","translation":"rocha azul esculpida"}
+{"id":"b04646:r00563:f20","source":"carved blue rocks","translation":"rochas azuis esculpidas"}
+{"id":"b04646:r00568:f00","source":"chain lamp","translation":"luminária de corrente"}
+{"id":"b04646:r00568:f08","source":"chain lamps","translation":"luminárias de corrente"}
+{"id":"b04646:r00568:f12","source":"chain lamp","translation":"luminária de corrente"}
+{"id":"b04646:r00568:f20","source":"chain lamps","translation":"luminárias de corrente"}
+{"id":"b04646:r00569:f00","source":"bike poster","translation":"pôster de bicicleta"}
+{"id":"b04646:r00569:f08","source":"bike posters","translation":"pôsteres de bicicleta"}
+{"id":"b04646:r00569:f12","source":"bike poster","translation":"pôster de bicicleta"}
+{"id":"b04646:r00569:f20","source":"bike posters","translation":"pôsteres de bicicleta"}
+{"id":"b04646:r00571:f00","source":"battle poster","translation":"pôster de batalha"}
+{"id":"b04646:r00571:f08","source":"battle posters","translation":"pôsteres de batalha"}
+{"id":"b04646:r00571:f12","source":"battle poster","translation":"pôster de batalha"}
+{"id":"b04646:r00571:f20","source":"battle posters","translation":"pôsteres de batalha"}
+{"id":"b04646:r00573:f00","source":"Thunder Wave poster","translation":"pôster de Thunder Wave"}
+{"id":"b04646:r00573:f08","source":"Thunder Wave posters","translation":"pôsteres de Thunder Wave"}
+{"id":"b04646:r00573:f12","source":"Thunder Wave poster","translation":"pôster de Thunder Wave"}
+{"id":"b04646:r00573:f20","source":"Thunder Wave posters","translation":"pôsteres de Thunder Wave"}
+{"id":"b04646:r00574:f00","source":"beach poster","translation":"pôster de praia"}
+{"id":"b04646:r00574:f08","source":"beach posters","translation":"pôsteres de praia"}
+{"id":"b04646:r00574:f12","source":"beach poster","translation":"pôster de praia"}
+{"id":"b04646:r00574:f20","source":"beach posters","translation":"pôsteres de praia"}
+{"id":"b04646:r00575:f00","source":"fighting poster","translation":"pôster de luta"}
+{"id":"b04646:r00575:f08","source":"fighting posters","translation":"pôsteres de luta"}
+{"id":"b04646:r00575:f12","source":"fighting poster","translation":"pôster de luta"}
+{"id":"b04646:r00575:f20","source":"fighting posters","translation":"pôsteres de luta"}
+{"id":"b04646:r00584:f00","source":"cushion bed","translation":"cama de almofadas"}
+{"id":"b04646:r00584:f08","source":"cushion beds","translation":"camas de almofadas"}
+{"id":"b04646:r00584:f12","source":"cushion bed","translation":"cama de almofadas"}
+{"id":"b04646:r00584:f20","source":"cushion beds","translation":"camas de almofadas"}
+{"id":"b04646:r00590:f00","source":"bottled ship","translation":"navio na garrafa"}
+{"id":"b04646:r00590:f08","source":"bottled ships","translation":"navios na garrafa"}
+{"id":"b04646:r00590:f12","source":"bottled ship","translation":"navio na garrafa"}
+{"id":"b04646:r00590:f20","source":"bottled ships","translation":"navios na garrafa"}
+{"id":"b04646:r00594:f00","source":"iron support","translation":"suporte de ferro"}
+{"id":"b04646:r00594:f08","source":"iron supports","translation":"suportes de ferro"}
+{"id":"b04646:r00594:f12","source":"iron support","translation":"suporte de ferro"}
+{"id":"b04646:r00594:f20","source":"iron supports","translation":"suportes de ferro"}
+{"id":"b04646:r00596:f00","source":"glass pane (sloped)","translation":"painel de vidro (inclinado)"}
+{"id":"b04646:r00596:f08","source":"glass panes (sloped)","translation":"painéis de vidro (inclinados)"}
+{"id":"b04646:r00596:f12","source":"glass pane (sloped)","translation":"painel de vidro (inclinado)"}
+{"id":"b04646:r00596:f20","source":"glass panes (sloped)","translation":"painéis de vidro (inclinados)"}
+{"id":"b04646:r00598:f00","source":"decorative shop shelf","translation":"prateleira decorativa de loja"}
+{"id":"b04646:r00598:f08","source":"decorative shop shelves","translation":"prateleiras decorativas de loja"}
+{"id":"b04646:r00598:f12","source":"decorative shop shelf","translation":"prateleira decorativa de loja"}
+{"id":"b04646:r00598:f20","source":"decorative shop shelves","translation":"prateleiras decorativas de loja"}
+{"id":"b04646:r00617:f00","source":"arrow sign (left)","translation":"placa de seta (esquerda)"}
+{"id":"b04646:r00617:f08","source":"arrow signs (left)","translation":"placas de seta (esquerda)"}
+{"id":"b04646:r00617:f12","source":"arrow sign (left)","translation":"placa de seta (esquerda)"}
+{"id":"b04646:r00617:f20","source":"arrow signs (left)","translation":"placas de seta (esquerda)"}
+{"id":"b04646:r00618:f00","source":"book stack","translation":"pilha de livros"}
+{"id":"b04646:r00618:f08","source":"book stacks","translation":"pilhas de livros"}
+{"id":"b04646:r00618:f12","source":"book stack","translation":"pilha de livros"}
+{"id":"b04646:r00618:f20","source":"book stacks","translation":"pilhas de livros"}
+{"id":"b04646:r00619:f00","source":"iron frame","translation":"estrutura de ferro"}
+{"id":"b04646:r00619:f08","source":"iron frames","translation":"estruturas de ferro"}
+{"id":"b04646:r00619:f12","source":"iron frame","translation":"estrutura de ferro"}
+{"id":"b04646:r00619:f20","source":"iron frames","translation":"estruturas de ferro"}
+{"id":"b04646:r00621:f00","source":"Basin Pokémon Center","translation":"Centro Pokémon da Bacia"}
+{"id":"b04646:r00621:f08","source":"Basin Pokémon Centers","translation":"Centros Pokémon da Bacia"}
+{"id":"b04646:r00621:f12","source":"Basin Pokémon Center","translation":"Centro Pokémon da Bacia"}
+{"id":"b04646:r00621:f20","source":"Basin Pokémon Centers","translation":"Centros Pokémon da Bacia"}
+{"id":"b04646:r00622:f00","source":"Dewgong clock tower","translation":"torre do relógio de Dewgong"}
+{"id":"b04646:r00622:f08","source":"Dewgong clock towers","translation":"torres do relógio de Dewgong"}
+{"id":"b04646:r00622:f12","source":"Dewgong clock tower","translation":"torre do relógio de Dewgong"}
+{"id":"b04646:r00622:f20","source":"Dewgong clock towers","translation":"torres do relógio de Dewgong"}
+{"id":"b04646:r00624:f00","source":"buoyant block","translation":"bloco flutuante"}
+{"id":"b04646:r00624:f08","source":"buoyant blocks","translation":"blocos flutuantes"}
+{"id":"b04646:r00624:f12","source":"buoyant block","translation":"bloco flutuante"}
+{"id":"b04646:r00624:f20","source":"buoyant blocks","translation":"blocos flutuantes"}
+{"id":"b04646:r00626:f00","source":"digital wall","translation":"parede digital"}
+{"id":"b04646:r00626:f08","source":"digital walls","translation":"paredes digitais"}
+{"id":"b04646:r00633:f00","source":"blue rock","translation":"rocha azul"}
+{"id":"b04646:r00633:f08","source":"blue rocks","translation":"rochas azuis"}
+{"id":"b04646:r00634:f00","source":"blue cave rock","translation":"rocha azul de caverna"}
+{"id":"b04646:r00634:f08","source":"blue cave rocks","translation":"rochas azuis de caverna"}
+{"id":"b04646:r00649:f00","source":"arrow sign (right)","translation":"placa de seta (direita)"}
+{"id":"b04646:r00649:f08","source":"arrow signs (right)","translation":"placas de seta (direita)"}
+{"id":"b04646:r00649:f12","source":"arrow sign (right)","translation":"placa de seta (direita)"}
+{"id":"b04646:r00649:f20","source":"arrow signs (right)","translation":"placas de seta (direita)"}
+{"id":"b04646:r00668:f00","source":"harp","translation":"harpa"}
+{"id":"b04646:r00668:f08","source":"harps","translation":"harpas"}
+{"id":"b04646:r00668:f12","source":"harp","translation":"harpa"}
+{"id":"b04646:r00668:f20","source":"harps","translation":"harpas"}
+{"id":"b04646:r00669:f00","source":"dangling streetlight","translation":"poste com luz pendente"}
+{"id":"b04646:r00669:f08","source":"dangling streetlights","translation":"postes com luz pendente"}
+{"id":"b04646:r00669:f12","source":"dangling streetlight","translation":"poste com luz pendente"}
+{"id":"b04646:r00669:f20","source":"dangling streetlights","translation":"postes com luz pendente"}
+{"id":"b04646:r00670:f00","source":"Swampert squad rug","translation":"tapete da turma de Swampert"}
+{"id":"b04646:r00670:f08","source":"Swampert squad rugs","translation":"tapetes da turma de Swampert"}
+{"id":"b04646:r00670:f12","source":"Swampert squad rug","translation":"tapete da turma de Swampert"}
+{"id":"b04646:r00670:f20","source":"Swampert squad rugs","translation":"tapetes da turma de Swampert"}
+{"id":"b04646:r00671:f00","source":"aqua cottage kit","translation":"kit de chalé aquático"}
+{"id":"b04646:r00671:f08","source":"aqua cottage kits","translation":"kits de chalé aquático"}
+{"id":"b04646:r00671:f12","source":"aqua cottage kit","translation":"kit de chalé aquático"}
+{"id":"b04646:r00671:f20","source":"aqua cottage kits","translation":"kits de chalé aquático"}
+{"id":"b04646:r00672:f00","source":"laboratory kit","translation":"kit de laboratório"}
+{"id":"b04646:r00672:f08","source":"laboratory kits","translation":"kits de laboratório"}
+{"id":"b04646:r00672:f12","source":"laboratory kit","translation":"kit de laboratório"}
+{"id":"b04646:r00672:f20","source":"laboratory kits","translation":"kits de laboratório"}
+{"id":"b04646:r00676:f00","source":"chic anchor print","translation":"estampa de âncora elegante"}
+{"id":"b04646:r00676:f08","source":"chic anchor prints","translation":"estampas de âncora elegantes"}
+{"id":"b04646:r00677:f00","source":"colorful anchor print","translation":"estampa de âncoras coloridas"}
+{"id":"b04646:r00677:f08","source":"colorful anchor prints","translation":"estampas de âncoras coloridas"}
+{"id":"b04646:r00678:f00","source":"clustered corals print","translation":"estampa de corais agrupados"}
+{"id":"b04646:r00678:f08","source":"clustered corals prints","translation":"estampas de corais agrupados"}
+{"id":"b04646:r00679:f00","source":"colorful corals print","translation":"estampa de corais coloridos"}
+{"id":"b04646:r00679:f08","source":"colorful corals prints","translation":"estampas de corais coloridos"}
+{"id":"b04646:r00680:f00","source":"dynamic Ditto print","translation":"estampa de Ditto dinâmico"}
+{"id":"b04646:r00680:f08","source":"dynamic Ditto prints","translation":"estampas de Ditto dinâmico"}
+{"id":"b04646:r00681:f00","source":"fanned-out Ditto print","translation":"estampa de Ditto em leque"}
+{"id":"b04646:r00681:f08","source":"fanned-out Ditto prints","translation":"estampas de Ditto em leque"}
+{"id":"b04646:r00682:f00","source":"house partition (medium)","translation":"divisória de casa (média)"}
+{"id":"b04646:r00682:f08","source":"house partitions (medium)","translation":"divisórias de casa (médias)"}
+{"id":"b04646:r00682:f12","source":"house partition (medium)","translation":"divisória de casa (média)"}
+{"id":"b04646:r00682:f20","source":"house partitions (medium)","translation":"divisórias de casa (médias)"}
+{"id":"b04646:r00683:f00","source":"house partition (small)","translation":"divisória de casa (pequena)"}
+{"id":"b04646:r00683:f08","source":"house partitions (small)","translation":"divisórias de casa (pequenas)"}
+{"id":"b04646:r00683:f12","source":"house partition (small)","translation":"divisória de casa (pequena)"}
+{"id":"b04646:r00683:f20","source":"house partitions (small)","translation":"divisórias de casa (pequenas)"}
+{"id":"b04646:r00726:f00","source":"hide-and-sneak trophy","translation":"troféu de pique-esconde"}
+{"id":"b04646:r00726:f08","source":"hide-and-sneak trophies","translation":"troféus de pique-esconde"}
+{"id":"b04646:r00726:f12","source":"hide-and-sneak trophy","translation":"troféu de pique-esconde"}
+{"id":"b04646:r00726:f20","source":"hide-and-sneak trophies","translation":"troféus de pique-esconde"}
+{"id":"b04646:r00730:f00","source":"Jirachi lamp","translation":"luminária de Jirachi"}
+{"id":"b04646:r00730:f08","source":"Jirachi lamps","translation":"luminárias de Jirachi"}
+{"id":"b04646:r00730:f12","source":"Jirachi lamp","translation":"luminária de Jirachi"}
+{"id":"b04646:r00730:f20","source":"Jirachi lamps","translation":"luminárias de Jirachi"}
+{"id":"b04646:r00732:f00","source":"cloud table","translation":"mesa de nuvem"}
+{"id":"b04646:r00732:f08","source":"cloud tables","translation":"mesas de nuvem"}
+{"id":"b04646:r00732:f12","source":"cloud table","translation":"mesa de nuvem"}
+{"id":"b04646:r00732:f20","source":"cloud tables","translation":"mesas de nuvem"}
+{"id":"b04646:r00736:f00","source":"moon clock","translation":"relógio de lua"}
+{"id":"b04646:r00736:f08","source":"moon clocks","translation":"relógios de lua"}
+{"id":"b04646:r00736:f12","source":"moon clock","translation":"relógio de lua"}
+{"id":"b04646:r00736:f20","source":"moon clocks","translation":"relógios de lua"}
+{"id":"b04646:r00738:f00","source":"cloud cannon","translation":"canhão de nuvens"}
+{"id":"b04646:r00738:f08","source":"cloud cannons","translation":"canhões de nuvens"}
+{"id":"b04646:r00738:f12","source":"cloud cannon","translation":"canhão de nuvens"}
+{"id":"b04646:r00738:f20","source":"cloud cannons","translation":"canhões de nuvens"}
+{"id":"b04646:r00747:f00","source":"Prism Scale","translation":"Escama Prisma"}
+{"id":"b04646:r00747:f08","source":"Prism Scales","translation":"Escamas Prisma"}
+{"id":"b04646:r00747:f12","source":"Prism Scale","translation":"Escama Prisma"}
+{"id":"b04646:r00747:f20","source":"Prism Scales","translation":"Escamas Prisma"}
+{"id":"b04646:r00748:f00","source":"big swim ring","translation":"boia grande"}
+{"id":"b04646:r00748:f08","source":"big swim rings","translation":"boias grandes"}
+{"id":"b04646:r00748:f12","source":"big swim ring","translation":"boia grande"}
+{"id":"b04646:r00748:f20","source":"big swim rings","translation":"boias grandes"}
+{"id":"b04646:r00751:f00","source":"floating lantern","translation":"lanterna flutuante"}
+{"id":"b04646:r00751:f08","source":"floating lanterns","translation":"lanternas flutuantes"}
+{"id":"b04646:r00751:f12","source":"floating lantern","translation":"lanterna flutuante"}
+{"id":"b04646:r00751:f20","source":"floating lanterns","translation":"lanternas flutuantes"}
+{"id":"b04646:r00753:f00","source":"beach volleyball set","translation":"conjunto de vôlei de praia"}
+{"id":"b04646:r00753:f08","source":"beach volleyball sets","translation":"conjuntos de vôlei de praia"}
+{"id":"b04646:r00753:f12","source":"beach volleyball set","translation":"conjunto de vôlei de praia"}
+{"id":"b04646:r00753:f20","source":"beach volleyball sets","translation":"conjuntos de vôlei de praia"}
+{"id":"b04646:r00754:f00","source":"cooler","translation":"caixa térmica"}
+{"id":"b04646:r00754:f08","source":"coolers","translation":"caixas térmicas"}
+{"id":"b04646:r00754:f12","source":"cooler","translation":"caixa térmica"}
+{"id":"b04646:r00754:f20","source":"coolers","translation":"caixas térmicas"}
+{"id":"b04646:r00755:f00","source":"large lost sunken relic","translation":"relíquia submersa perdida grande"}
+{"id":"b04646:r00755:f08","source":"large lost sunken relics","translation":"relíquias submersas perdidas grandes"}
+{"id":"b04646:r00755:f12","source":"large lost sunken relic","translation":"relíquia submersa perdida grande"}
+{"id":"b04646:r00755:f20","source":"large lost sunken relics","translation":"relíquias submersas perdidas grandes"}
+{"id":"b04646:r00860:f00","source":"dry Aspear tree","translation":"árvore de Aspear seca"}
+{"id":"b04646:r00860:f08","source":"dry Aspear trees","translation":"árvores de Aspear secas"}
+{"id":"b04646:r00860:f12","source":"dry Aspear tree","translation":"árvore de Aspear seca"}
+{"id":"b04646:r00860:f20","source":"dry Aspear trees","translation":"árvores de Aspear secas"}
+{"id":"b04646:r00861:f00","source":"dry Rawst tree","translation":"árvore de Rawst seca"}
+{"id":"b04646:r00861:f08","source":"dry Rawst trees","translation":"árvores de Rawst secas"}
+{"id":"b04646:r00861:f12","source":"dry Rawst tree","translation":"árvore de Rawst seca"}
+{"id":"b04646:r00861:f20","source":"dry Rawst trees","translation":"árvores de Rawst secas"}
+{"id":"b04646:r00865:f00","source":"marine sofa","translation":"sofá marinho"}
+{"id":"b04646:r00865:f08","source":"marine sofas","translation":"sofás marinhos"}
+{"id":"b04646:r00865:f12","source":"marine sofa","translation":"sofá marinho"}
+{"id":"b04646:r00865:f20","source":"marine sofas","translation":"sofás marinhos"}
+{"id":"b04646:r00866:f00","source":"marine table","translation":"mesa marinha"}
+{"id":"b04646:r00866:f08","source":"marine tables","translation":"mesas marinhas"}
+{"id":"b04646:r00866:f12","source":"marine table","translation":"mesa marinha"}
+{"id":"b04646:r00866:f20","source":"marine tables","translation":"mesas marinhas"}
+{"id":"b04646:r00867:f00","source":"marine chair","translation":"cadeira marinha"}
+{"id":"b04646:r00867:f08","source":"marine chairs","translation":"cadeiras marinhas"}
+{"id":"b04646:r00867:f12","source":"marine chair","translation":"cadeira marinha"}
+{"id":"b04646:r00867:f20","source":"marine chairs","translation":"cadeiras marinhas"}
+{"id":"b04646:r00868:f00","source":"marine dresser","translation":"cômoda marinha"}
+{"id":"b04646:r00868:f08","source":"marine dressers","translation":"cômodas marinhas"}
+{"id":"b04646:r00868:f12","source":"marine dresser","translation":"cômoda marinha"}
+{"id":"b04646:r00868:f20","source":"marine dressers","translation":"cômodas marinhas"}
+{"id":"b04646:r00869:f00","source":"marine chest","translation":"baú marinho"}
+{"id":"b04646:r00869:f08","source":"marine chests","translation":"baús marinhos"}
+{"id":"b04646:r00869:f12","source":"marine chest","translation":"baú marinho"}
+{"id":"b04646:r00869:f20","source":"marine chests","translation":"baús marinhos"}
+{"id":"b04646:r00870:f00","source":"marine closet","translation":"armário marinho"}
+{"id":"b04646:r00870:f08","source":"marine closets","translation":"armários marinhos"}
+{"id":"b04646:r00870:f12","source":"marine closet","translation":"armário marinho"}
+{"id":"b04646:r00870:f20","source":"marine closets","translation":"armários marinhos"}
+{"id":"b04646:r00871:f00","source":"ornate bed","translation":"cama ornamentada"}
+{"id":"b04646:r00871:f08","source":"ornate beds","translation":"camas ornamentadas"}
+{"id":"b04646:r00871:f12","source":"ornate bed","translation":"cama ornamentada"}
+{"id":"b04646:r00871:f20","source":"ornate beds","translation":"camas ornamentadas"}
+{"id":"b04646:r00872:f00","source":"ornate chair","translation":"cadeira ornamentada"}
+{"id":"b04646:r00872:f08","source":"ornate chairs","translation":"cadeiras ornamentadas"}
+{"id":"b04646:r00872:f12","source":"ornate chair","translation":"cadeira ornamentada"}
+{"id":"b04646:r00872:f20","source":"ornate chairs","translation":"cadeiras ornamentadas"}
+{"id":"b04646:r00873:f00","source":"ornate table","translation":"mesa ornamentada"}
+{"id":"b04646:r00873:f08","source":"ornate tables","translation":"mesas ornamentadas"}
+{"id":"b04646:r00873:f12","source":"ornate table","translation":"mesa ornamentada"}
+{"id":"b04646:r00873:f20","source":"ornate tables","translation":"mesas ornamentadas"}
+{"id":"b04646:r00874:f00","source":"ornate stand","translation":"suporte ornamentado"}
+{"id":"b04646:r00874:f08","source":"ornate stands","translation":"suportes ornamentados"}
+{"id":"b04646:r00874:f12","source":"ornate stand","translation":"suporte ornamentado"}
+{"id":"b04646:r00874:f20","source":"ornate stands","translation":"suportes ornamentados"}
+{"id":"b04646:r00875:f00","source":"ornate partition","translation":"divisória ornamentada"}
+{"id":"b04646:r00875:f08","source":"ornate partitions","translation":"divisórias ornamentadas"}
+{"id":"b04646:r00875:f12","source":"ornate partition","translation":"divisória ornamentada"}
+{"id":"b04646:r00875:f20","source":"ornate partitions","translation":"divisórias ornamentadas"}
+{"id":"b04646:r00876:f00","source":"ornate decorative shelf","translation":"prateleira decorativa ornamentada"}
+{"id":"b04646:r00876:f08","source":"ornate decorative shelves","translation":"prateleiras decorativas ornamentadas"}
+{"id":"b04646:r00876:f12","source":"ornate decorative shelf","translation":"prateleira decorativa ornamentada"}
+{"id":"b04646:r00876:f20","source":"ornate decorative shelves","translation":"prateleiras decorativas ornamentadas"}
+{"id":"b04646:r00877:f00","source":"lampion","translation":"lampião"}
+{"id":"b04646:r00877:f08","source":"lampions","translation":"lampiões"}
+{"id":"b04646:r00877:f12","source":"lampion","translation":"lampião"}
+{"id":"b04646:r00877:f20","source":"lampions","translation":"lampiões"}
+{"id":"b04646:r00878:f00","source":"decorative cloth","translation":"tecido decorativo"}
+{"id":"b04646:r00878:f08","source":"decorative cloths","translation":"tecidos decorativos"}
+{"id":"b04646:r00878:f12","source":"decorative cloth","translation":"tecido decorativo"}
+{"id":"b04646:r00878:f20","source":"decorative cloths","translation":"tecidos decorativos"}
+{"id":"b04646:r00879:f00","source":"buried pearl","translation":"pérola enterrada"}
+{"id":"b04646:r00879:f08","source":"buried pearls","translation":"pérolas enterradas"}
+{"id":"b04646:r00879:f12","source":"buried pearl","translation":"pérola enterrada"}
+{"id":"b04646:r00879:f20","source":"buried pearls","translation":"pérolas enterradas"}
+{"id":"b04646:r00883:f12","source":"colorful coral cluster","translation":"aglomerado de corais coloridos"}
+{"id":"b04646:r00883:f20","source":"colorful coral clusters","translation":"aglomerados de corais coloridos"}
+{"id":"b04646:r00888:f00","source":"ornate door","translation":"porta ornamentada"}
+{"id":"b04646:r00888:f08","source":"ornate doors","translation":"portas ornamentadas"}
+{"id":"b04646:r00888:f12","source":"ornate door","translation":"porta ornamentada"}
+{"id":"b04646:r00888:f20","source":"ornate doors","translation":"portas ornamentadas"}
+{"id":"b04646:r00889:f00","source":"ornate window","translation":"janela ornamentada"}
+{"id":"b04646:r00889:f08","source":"ornate windows","translation":"janelas ornamentadas"}
+{"id":"b04646:r00889:f12","source":"ornate window","translation":"janela ornamentada"}
+{"id":"b04646:r00889:f20","source":"ornate windows","translation":"janelas ornamentadas"}
+{"id":"b04646:r00890:f00","source":"flat wavy roof","translation":"telhado ondulado plano"}
+{"id":"b04646:r00890:f08","source":"flat wavy roofs","translation":"telhados ondulados planos"}
+{"id":"b04646:r00895:f00","source":"fancy wavy roof decoration","translation":"ornamento de telhado ondulado chique"}
+{"id":"b04646:r00895:f08","source":"fancy wavy roof decorations","translation":"ornamentos de telhado ondulado chique"}
+{"id":"b04646:r00895:f12","source":"fancy wavy roof decoration","translation":"ornamento de telhado ondulado chique"}
+{"id":"b04646:r00895:f20","source":"fancy wavy roof decorations","translation":"ornamentos de telhado ondulado chique"}
+{"id":"b04646:r00897:f00","source":"grubby pearl","translation":"pérola suja"}
+{"id":"b04646:r00897:f08","source":"grubby pearls","translation":"pérolas sujas"}
+{"id":"b04646:r00897:f12","source":"grubby pearl","translation":"pérola suja"}
+{"id":"b04646:r00897:f20","source":"grubby pearls","translation":"pérolas sujas"}
+{"id":"b04646:r00898:f00","source":"imperial cottage","translation":"chalé imperial"}
+{"id":"b04646:r00898:f08","source":"imperial cottages","translation":"chalés imperiais"}
+{"id":"b04646:r00898:f12","source":"imperial cottage","translation":"chalé imperial"}
+{"id":"b04646:r00898:f20","source":"imperial cottages","translation":"chalés imperiais"}
+{"id":"b04646:r00899:f00","source":"imperial house","translation":"casa imperial"}
+{"id":"b04646:r00899:f08","source":"imperial houses","translation":"casas imperiais"}
+{"id":"b04646:r00899:f12","source":"imperial house","translation":"casa imperial"}
+{"id":"b04646:r00899:f20","source":"imperial houses","translation":"casas imperiais"}
+{"id":"b04646:r00900:f00","source":"Sharpedo submarine","translation":"submarino de Sharpedo"}
+{"id":"b04646:r00900:f08","source":"Sharpedo submarines","translation":"submarinos de Sharpedo"}
+{"id":"b04646:r00900:f12","source":"Sharpedo submarine","translation":"submarino de Sharpedo"}
+{"id":"b04646:r00900:f20","source":"Sharpedo submarines","translation":"submarinos de Sharpedo"}
+{"id":"b04646:r00901:f00","source":"imperial cottage kit","translation":"kit de chalé imperial"}
+{"id":"b04646:r00901:f08","source":"imperial cottage kits","translation":"kits de chalé imperial"}
+{"id":"b04646:r00901:f12","source":"imperial cottage kit","translation":"kit de chalé imperial"}
+{"id":"b04646:r00901:f20","source":"imperial cottage kits","translation":"kits de chalé imperial"}
+{"id":"b04646:r00902:f00","source":"imperial house kit","translation":"kit de casa imperial"}
+{"id":"b04646:r00902:f08","source":"imperial house kits","translation":"kits de casa imperial"}
+{"id":"b04646:r00902:f12","source":"imperial house kit","translation":"kit de casa imperial"}
+{"id":"b04646:r00902:f20","source":"imperial house kits","translation":"kits de casa imperial"}
+{"id":"b04646:r00904:f00","source":"Basin Pokémon Center kit","translation":"kit do Centro Pokémon da Bacia"}
+{"id":"b04646:r00904:f08","source":"Basin Pokémon Center kits","translation":"kits do Centro Pokémon da Bacia"}
+{"id":"b04646:r00904:f12","source":"Basin Pokémon Center kit","translation":"kit do Centro Pokémon da Bacia"}
+{"id":"b04646:r00904:f20","source":"Basin Pokémon Center kits","translation":"kits do Centro Pokémon da Bacia"}
+{"id":"b04646:r00905:f00","source":"clock tower kit","translation":"kit de torre do relógio"}
+{"id":"b04646:r00905:f08","source":"clock tower kits","translation":"kits de torre do relógio"}
+{"id":"b04646:r00905:f12","source":"clock tower kit","translation":"kit de torre do relógio"}
+{"id":"b04646:r00905:f20","source":"clock tower kits","translation":"kits de torre do relógio"}
+{"id":"b04646:r00932:f00","source":"antique wall","translation":"parede antiga"}
+{"id":"b04646:r00932:f08","source":"antique walls","translation":"paredes antigas"}
+{"id":"b04646:r00933:f00","source":"light antique wall","translation":"parede antiga clara"}
+{"id":"b04646:r00933:f08","source":"light antique walls","translation":"paredes antigas claras"}
+{"id":"b04646:r00934:f00","source":"Pokémon Center wall","translation":"parede de Centro Pokémon"}
+{"id":"b04646:r00934:f08","source":"Pokémon Center walls","translation":"paredes de Centro Pokémon"}
+{"id":"b04646:r00939:f00","source":"confectionery wall","translation":"parede de confeitaria"}
+{"id":"b04646:r00939:f08","source":"confectionery walls","translation":"paredes de confeitaria"}
+{"id":"b04646:r00941:f00","source":"gradient wall","translation":"parede em degradê"}
+{"id":"b04646:r00941:f08","source":"gradient walls","translation":"paredes em degradê"}
+{"id":"b04646:r00945:f00","source":"decorative Poké Ball","translation":"Poké Bola decorativa"}
+{"id":"b04646:r00945:f08","source":"decorative Poké Balls","translation":"Poké Bolas decorativas"}
+{"id":"b04646:r00945:f12","source":"decorative Poké Ball","translation":"Poké Bola decorativa"}
+{"id":"b04646:r00945:f20","source":"decorative Poké Balls","translation":"Poké Bolas decorativas"}
+{"id":"b04646:r00946:f00","source":"decorative Great Ball","translation":"Great Ball decorativa"}
+{"id":"b04646:r00946:f08","source":"decorative Great Balls","translation":"Great Balls decorativas"}
+{"id":"b04646:r00946:f12","source":"decorative Great Ball","translation":"Great Ball decorativa"}
+{"id":"b04646:r00946:f20","source":"decorative Great Balls","translation":"Great Balls decorativas"}
+{"id":"b04646:r00947:f00","source":"decorative Heal Ball","translation":"Heal Ball decorativa"}
+{"id":"b04646:r00947:f08","source":"decorative Heal Balls","translation":"Heal Balls decorativas"}
+{"id":"b04646:r00947:f12","source":"decorative Heal Ball","translation":"Heal Ball decorativa"}
+{"id":"b04646:r00947:f20","source":"decorative Heal Balls","translation":"Heal Balls decorativas"}
+{"id":"b04646:r00948:f00","source":"decorative Quick Ball","translation":"Quick Ball decorativa"}
+{"id":"b04646:r00948:f08","source":"decorative Quick Balls","translation":"Quick Balls decorativas"}
+{"id":"b04646:r00948:f12","source":"decorative Quick Ball","translation":"Quick Ball decorativa"}
+{"id":"b04646:r00948:f20","source":"decorative Quick Balls","translation":"Quick Balls decorativas"}
+{"id":"b04646:r00949:f00","source":"decorative Dive Ball","translation":"Dive Ball decorativa"}
+{"id":"b04646:r00949:f08","source":"decorative Dive Balls","translation":"Dive Balls decorativas"}
+{"id":"b04646:r00949:f12","source":"decorative Dive Ball","translation":"Dive Ball decorativa"}
+{"id":"b04646:r00949:f20","source":"decorative Dive Balls","translation":"Dive Balls decorativas"}
+{"id":"b04646:r00950:f00","source":"decorative Net Ball","translation":"Net Ball decorativa"}
+{"id":"b04646:r00950:f08","source":"decorative Net Balls","translation":"Net Balls decorativas"}
+{"id":"b04646:r00950:f12","source":"decorative Net Ball","translation":"Net Ball decorativa"}
+{"id":"b04646:r00950:f20","source":"decorative Net Balls","translation":"Net Balls decorativas"}
+{"id":"b04646:r00951:f00","source":"decorative Lure Ball","translation":"Lure Ball decorativa"}
+{"id":"b04646:r00951:f08","source":"decorative Lure Balls","translation":"Lure Balls decorativas"}
+{"id":"b04646:r00951:f12","source":"decorative Lure Ball","translation":"Lure Ball decorativa"}
+{"id":"b04646:r00951:f20","source":"decorative Lure Balls","translation":"Lure Balls decorativas"}
+{"id":"b04646:r00954:f00","source":"Ditto transform print","translation":"estampa de transformação de Ditto"}
+{"id":"b04646:r00954:f08","source":"Ditto transform prints","translation":"estampas de transformação de Ditto"}
+{"id":"b04646:r00961:f00","source":"ornate wall","translation":"parede ornamentada"}
+{"id":"b04646:r00961:f08","source":"ornate walls","translation":"paredes ornamentadas"}
+{"id":"b04646:r00967:f00","source":"digital wall","translation":"parede digital"}
+{"id":"b04646:r00967:f08","source":"digital walls","translation":"paredes digitais"}
+{"id":"b04646:r00970:f00","source":"chic anchor print","translation":"estampa de âncora elegante"}
+{"id":"b04646:r00970:f08","source":"chic anchor prints","translation":"estampas de âncora elegantes"}
+{"id":"b04646:r00971:f00","source":"colorful anchor print","translation":"estampa de âncoras coloridas"}
+{"id":"b04646:r00971:f08","source":"colorful anchor prints","translation":"estampas de âncoras coloridas"}
+{"id":"b04646:r00972:f00","source":"clustered corals print","translation":"estampa de corais agrupados"}
+{"id":"b04646:r00972:f08","source":"clustered corals prints","translation":"estampas de corais agrupados"}
+{"id":"b04646:r00973:f00","source":"colorful corals print","translation":"estampa de corais coloridos"}
+{"id":"b04646:r00973:f08","source":"colorful corals prints","translation":"estampas de corais coloridos"}
+{"id":"b04646:r00975:f00","source":"dynamic Ditto print","translation":"estampa de Ditto dinâmico"}
+{"id":"b04646:r00975:f08","source":"dynamic Ditto prints","translation":"estampas de Ditto dinâmico"}
+{"id":"b04646:r00977:f00","source":"fanned-out Ditto print","translation":"estampa de Ditto em leque"}
+{"id":"b04646:r00977:f08","source":"fanned-out Ditto prints","translation":"estampas de Ditto em leque"}
+{"id":"b04646:r01184:f00","source":"metronome","translation":"metrônomo"}
+{"id":"b04646:r01184:f08","source":"metronomes","translation":"metrônomos"}
+{"id":"b04646:r01184:f12","source":"metronome","translation":"metrônomo"}
+{"id":"b04646:r01184:f20","source":"metronomes","translation":"metrônomos"}
+{"id":"b04646:r01373:f00","source":"Ditto transform print","translation":"estampa de transformação de Ditto"}
+{"id":"b04646:r01373:f08","source":"Ditto transform prints","translation":"estampas de transformação de Ditto"}
+{"id":"b04646:r01698:f00","source":"house partition (big)","translation":"divisória de casa (grande)"}
+{"id":"b04646:r01698:f08","source":"house partitions (big)","translation":"divisórias de casa (grandes)"}
+{"id":"b04646:r01698:f12","source":"house partition (big)","translation":"divisória de casa (grande)"}
+{"id":"b04646:r01698:f20","source":"house partitions (big)","translation":"divisórias de casa (grandes)"}
+{"id":"b04646:r02981:f00","source":"Leppa smoothie","translation":"vitamina de Leppa"}
+{"id":"b04646:r02981:f08","source":"Leppa smoothies","translation":"vitaminas de Leppa"}
+{"id":"b04646:r02981:f12","source":"Leppa smoothie","translation":"vitamina de Leppa"}
+{"id":"b04646:r02981:f20","source":"Leppa smoothies","translation":"vitaminas de Leppa"}
+{"id":"b04646:r02984:f00","source":"coffee parfait smoothie","translation":"vitamina de parfait de café"}
+{"id":"b04646:r02984:f08","source":"coffee parfait smoothies","translation":"vitaminas de parfait de café"}
+{"id":"b04646:r02984:f12","source":"coffee parfait smoothie","translation":"vitamina de parfait de café"}
+{"id":"b04646:r02984:f20","source":"coffee parfait smoothies","translation":"vitaminas de parfait de café"}
+{"id":"b04646:r02988:f00","source":"explosive hamburger steak","translation":"hambúrguer explosivo"}
+{"id":"b04646:r02988:f08","source":"explosive hamburger steaks","translation":"hambúrgueres explosivos"}
+{"id":"b04646:r02988:f12","source":"explosive hamburger steak","translation":"hambúrguer explosivo"}
+{"id":"b04646:r02988:f20","source":"explosive hamburger steaks","translation":"hambúrgueres explosivos"}
+{"id":"b04646:r02995:f00","source":"glass recipe set","translation":"conjunto de receitas de vidro"}
+{"id":"b04646:r02995:f08","source":"glass recipe sets","translation":"conjuntos de receitas de vidro"}
+{"id":"b04646:r02995:f12","source":"glass recipe set","translation":"conjunto de receitas de vidro"}
+{"id":"b04646:r02995:f20","source":"glass recipe sets","translation":"conjuntos de receitas de vidro"}
+{"id":"b04646:r02997:f00","source":"gradient wall recipe set","translation":"conjunto de receitas de paredes em degradê"}
+{"id":"b04646:r02997:f08","source":"gradient wall recipe sets","translation":"conjuntos de receitas de paredes em degradê"}
+{"id":"b04646:r02997:f12","source":"gradient wall recipe set","translation":"conjunto de receitas de paredes em degradê"}
+{"id":"b04646:r02997:f20","source":"gradient wall recipe sets","translation":"conjuntos de receitas de paredes em degradê"}

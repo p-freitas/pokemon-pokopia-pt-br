@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "modified_banks": 248,
+  "modified_fields": 32356,
+  "untouched_records": 12050,
+  "original_bin_prefix_preserved": true,
+  "source_sha256": {
+    "LD_C0_R.BIN": "2ea76fd78d5d2c0111fc2e3d8258ed35faaad6a52420d7fdee7c8a2ed2122433",
+    "LI_C0_R.IDX": "86fb3fae4e3092594e45c350f7f12e4cbe4a53b513f07c1f38498f6ec988c0b1"
+  },
+  "output_sha256": {
+    "LD_C0_R.BIN": "3fd7a400bf08232607ea8068d981971ac1a15e3a9cf4f8fd6e36c93084e42d3d",
+    "LI_C0_R.IDX": "5dde354179361688a73aacbaf47e095bd242ff0edaeea57941aa06ea34eb28d0"
+  },
+  "emulator_test": "not_run"
+}

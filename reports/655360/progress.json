@@ -1,0 +1,21 @@
+{
+  "found_nonempty_fields": 39201,
+  "statuses": {
+    "translated_unreviewed": 34882,
+    "pending_translation": 4051,
+    "needs_attention": 268
+  },
+  "origins": {
+    "upstream": 30519,
+    "": 4213,
+    "upstream_rejected": 106,
+    "exact_memory": 219,
+    "upstream_unchanged": 2324,
+    "ai_batch": 1688,
+    "preserved_pokemon_name": 132
+  },
+  "changed_translations": 32356,
+  "preserved_unchanged": 2324,
+  "distinct_sources": 31775,
+  "repeated_fields": 7426
+}
