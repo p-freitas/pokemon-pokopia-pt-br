@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "modified_banks": 0,
+  "modified_fields": 0,
+  "repaired_stored_size_records": [],
+  "untouched_records": 12298,
+  "baseline_bin_prefix_preserved": true,
+  "baseline_sha256": {
+    "LD_C0_R.BIN": "48ff1c0b84e49e3435310a0c2e61c58450bfc0baa25b86075ab0a4b9c5aa16ec",
+    "LI_C0_R.IDX": "ae5ba7d97e6306cd83ebbbc350b535ef02f5ca8376ec09897a65d99dd002f277"
+  },
+  "source_sha256": {
+    "LD_C0_R.BIN": "2ea76fd78d5d2c0111fc2e3d8258ed35faaad6a52420d7fdee7c8a2ed2122433",
+    "LI_C0_R.IDX": "86fb3fae4e3092594e45c350f7f12e4cbe4a53b513f07c1f38498f6ec988c0b1"
+  },
+  "output_sha256": {
+    "LD_C0_R.BIN": "48ff1c0b84e49e3435310a0c2e61c58450bfc0baa25b86075ab0a4b9c5aa16ec",
+    "LI_C0_R.IDX": "ae5ba7d97e6306cd83ebbbc350b535ef02f5ca8376ec09897a65d99dd002f277"
+  },
+  "emulator_test": "not_run"
+}

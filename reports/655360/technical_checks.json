@@ -1,9 +1,0 @@
-{
-  "unit_tests_passed": 6,
-  "wrong_source_patch_rejected_before_writes": true,
-  "main_unchanged": true,
-  "emulator_launched": false,
-  "emulator_existing_process_preserved": true,
-  "patch_reapplication_matches_build": true,
-  "game_visual_test": "pending"
-}

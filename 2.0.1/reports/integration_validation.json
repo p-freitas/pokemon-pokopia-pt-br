@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "index_entries": 12298,
+  "additional_translations": 75,
+  "changed_text_banks": 6,
+  "unchanged_bank_payloads": 12292,
+  "preserved_other_fields_in_changed_banks": 3781,
+  "strict_decode_all_records": true,
+  "upstream_text_preserved": true,
+  "output_sha256": {
+    "LD_C0_R.BIN": "48ff1c0b84e49e3435310a0c2e61c58450bfc0baa25b86075ab0a4b9c5aa16ec",
+    "LI_C0_R.IDX": "ae5ba7d97e6306cd83ebbbc350b535ef02f5ca8376ec09897a65d99dd002f277"
+  },
+  "emulator_test": "not_run"
+}

@@ -1,0 +1,19 @@
+{
+  "found_nonempty_fields": 39201,
+  "statuses": {
+    "translated_unreviewed": 36368,
+    "needs_attention": 1326,
+    "pending_translation": 1507
+  },
+  "origins": {
+    "upstream_2.0.1": 34397,
+    "preserved_upstream_english": 2514,
+    "": 1507,
+    "local_addition": 75,
+    "deferred_legacy": 708
+  },
+  "changed_translations": 34472,
+  "preserved_unchanged": 2514,
+  "distinct_sources": 31775,
+  "repeated_fields": 7426
+}

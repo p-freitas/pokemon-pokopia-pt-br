@@ -19,24 +19,23 @@
       "bytes": 393536
     }
   },
-  "upstream_files": {
-    "LD_C0_R.BIN": {
-      "sha256": "41a15ee18a4571a226dfa52823fa43b845158821eda33074973609b662862c32",
-      "bytes": 184616960
-    },
-    "LI_C0_R.IDX": {
-      "sha256": "640d956722cbdf79a113dbc98dde863549bbf87020f9bdc4deacffe703a4edbd",
-      "bytes": 377056
-    }
-  },
   "entries": 12298,
-  "upstream_entries": 11783,
   "v2_tables": 2702,
   "localized_groups": 274,
-  "upstream_localized_groups": 252,
   "version_label_supplied_by_user": "2.0.1a (655360)",
   "version_label_independently_verified": false,
   "main_sha256": "8a8ce87b4edfce88c6260da5dd80d6cafc03a761eebc842d7a3476e353a8336f",
   "main_build_id": "76A489F3BD3642FA5E18BD83D32C98BACC5F7D0E000000000000000000000000",
-  "title_id": "0400A3A01EE4C000"
+  "title_id": "0400A3A01EE4C000",
+  "supported_baselines": [
+    {
+      "LD_C0_R.BIN": "c8d7e88957c27b09b0b9640a6cf70b61e328d5b4cbafe61ada4286be104b0a83",
+      "LI_C0_R.IDX": "627ffa323a72832011b17504273fc3dc73a7e83464c4919a9c579860b33d1ac1"
+    },
+    {
+      "LD_C0_R.BIN": "48ff1c0b84e49e3435310a0c2e61c58450bfc0baa25b86075ab0a4b9c5aa16ec",
+      "LI_C0_R.IDX": "ae5ba7d97e6306cd83ebbbc350b535ef02f5ca8376ec09897a65d99dd002f277"
+    }
+  ],
+  "upstream_base_commit": "94c8f429ed17ee06e1a4c80fd46565a53541bb11"
 }

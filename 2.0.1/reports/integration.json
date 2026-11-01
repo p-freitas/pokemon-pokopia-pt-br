@@ -1,0 +1,9 @@
+{
+  "upstream_commit": "94c8f429ed17ee06e1a4c80fd46565a53541bb11",
+  "upstream_changed_fields_preserved": 34397,
+  "overlapping_different_local_translations_discarded": 467,
+  "added_translations": 75,
+  "deferred_legacy_candidates": 708,
+  "preserved_english_policy_fields": 3,
+  "upstream_stored_size_understatements": 248
+}

@@ -6,7 +6,7 @@ import tempfile
 import unittest
 from types import SimpleNamespace
 from unittest.mock import patch
-sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'tools'))
 from formats import Archive, compress, parse_table, rebuild_table
 from project import technical_errors
 import project
@@ -28,6 +28,20 @@ class IntegrityTests(unittest.TestCase):
             (p/'LD_C0_R.BIN').write_bytes(encoded[:135])
             (p/'LI_C0_R.IDX').write_bytes(struct.pack('<QQQQ',0,1200,135,1))
             with self.assertRaises(ValueError):Archive(p).read(0)
+
+    def test_stale_idx_size_can_be_repaired_without_changing_payload(self):
+        payload=b'Pokopia translated text '*5000
+        encoded=compress(payload)
+        with tempfile.TemporaryDirectory() as root:
+            p=Path(root)
+            (p/'LD_C0_R.BIN').write_bytes(encoded)
+            (p/'LI_C0_R.IDX').write_bytes(struct.pack('<QQQQ',0,len(payload),128,1))
+            with self.assertRaises(ValueError):Archive(p).read(0)
+            known=Archive(p,tolerate_legacy_stored=True)
+            actual=known.physical_size(0)
+            self.assertEqual(actual,len(encoded))
+            (p/'LI_C0_R.IDX').write_bytes(struct.pack('<QQQQ',0,len(payload),actual,1))
+            self.assertEqual(Archive(p).read(0),payload)
 
     def test_pointer_growth_and_opaque_metadata(self):
         for stride,fields in [(8,(0,)),(12,(0,4)),(32,(0,4,8,12,16,20))]:

@@ -13,6 +13,10 @@ main
 *.fdata
 /translations/655360/memory.jsonl
 /translations/655360/review.csv
+/2.0.1/local/
+/2.0.1/build/
+/2.0.1/translations/memory.jsonl
+/2.0.1/translations/review.csv
 *.BIN
 *.IDX
 *.nsp

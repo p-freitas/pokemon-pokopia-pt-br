@@ -32,6 +32,21 @@ class Archive:
         self.data = (self.root/'LD_C0_R.BIN').read_bytes()
         self.tolerate_legacy_stored = tolerate_legacy_stored
 
+    def physical_size(self, i):
+        """Padded extent described by a compressed container's own chunk table."""
+        e = self.entries[i]
+        if not e.flag or not e.size:
+            return e.stored
+        chunk, count, total = struct.unpack_from('<III', self.data, e.offset)
+        if chunk not in (65536, 131072, 524288) or total != e.size:
+            raise ValueError('Unexpected compression header')
+        size = align(12+4*count)
+        for j in range(count):
+            size += align(struct.unpack_from('<I', self.data, e.offset+12+4*j)[0])
+        if e.offset+size > len(self.data):
+            raise ValueError('Physical container extent outside BIN')
+        return size
+
     def read(self, i):
         e = self.entries[i]
         if e.size == 0:
