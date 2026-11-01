@@ -11,7 +11,7 @@ O projeto mantém patches separados para as versões **1.0.4** e **2.0.1** do jo
 | Versão do jogo | Update | Disponibilidade |
 | --- | --- | --- |
 | **1.0.4** | `327680` | Finalizada |
-| **2.0.1** | `655360` | Tradução textual parcial: **96,8%**; teste no jogo pendente |
+| **2.0.1** | `655360` | Tradução textual parcial: **96,8%** |
 
 **Contribuição em desenvolvimento para 2.0.1:** esta branch acrescenta 75 campos de interface, tutoriais, missões e descrições à base 2.0.0, preservando as traduções e imagens do upstream. Ferramentas, base editável e validações estão em [2.0.1/docs/GUIA.md](2.0.1/docs/GUIA.md). Os totais da release abaixo ainda não incluem esse complemento; teste no jogo pendente.
 
@@ -55,8 +55,6 @@ Instale **somente a pasta correspondente à versão do seu jogo**. Os arquivos d
 | --- | ---: | ---: |
 | **1.0.4** | **30.826** | **36** |
 | **2.0.1** | **34.781** — 96,8% | **40** |
-
-O total textual conta entradas do jogo, incluindo repetições e variantes de nomes, singular e plural. Não soma novamente as revisões da mesma entrada nem inclui a adaptação de unidades de medida.
 
 ## Imagens de exemplo
 
