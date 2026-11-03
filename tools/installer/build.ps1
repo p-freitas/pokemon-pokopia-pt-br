@@ -1,6 +1,8 @@
 [CmdletBinding()]
 param(
-    [string]$OutputDirectory = (Join-Path $PSScriptRoot "dist")
+    [string]$OutputDirectory = (Join-Path $PSScriptRoot "dist"),
+    [string]$SourcePath = (Join-Path $PSScriptRoot "pokopia_installer.py"),
+    [string]$InstallerName = "Pokemon-Pokopia-PT-BR-Installer-v2.5.0"
 )
 
 $ErrorActionPreference = "Stop"
@@ -8,7 +10,7 @@ $ErrorActionPreference = "Stop"
 $buildRoot = Join-Path $env:TEMP "PokemonPokopiaPTBRInstallerBuild"
 $venvPath = Join-Path $buildRoot "venv"
 $pythonPath = Join-Path $venvPath "Scripts\python.exe"
-$sourcePath = Join-Path $PSScriptRoot "pokopia_installer.py"
+$installerSource = (Resolve-Path -LiteralPath $SourcePath).Path
 $outputPath = [System.IO.Path]::GetFullPath($OutputDirectory)
 
 if (-not (Get-Command py -ErrorAction SilentlyContinue)) {
@@ -34,7 +36,7 @@ if ($LASTEXITCODE -ne 0) {
     throw "Não foi possível instalar o PyInstaller."
 }
 
-$name = "Pokemon-Pokopia-PT-BR-Installer-v2.5.0"
+$name = $InstallerName
 $workPath = Join-Path $buildRoot "work"
 $specPath = Join-Path $buildRoot "spec"
 New-Item -ItemType Directory -Force -Path $workPath, $specPath | Out-Null
@@ -49,7 +51,7 @@ $pyinstallerArgs = @(
     "--distpath", $outputPath,
     "--workpath", $workPath,
     "--specpath", $specPath,
-    $sourcePath
+    $installerSource
 )
 & $pythonPath @pyinstallerArgs
 

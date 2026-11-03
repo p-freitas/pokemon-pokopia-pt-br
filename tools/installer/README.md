@@ -22,3 +22,8 @@ Com Python 3.12 instalado, execute:
 
 O script prepara um ambiente virtual temporário, instala PyInstaller e gera o
 executável independente `Pokemon-Pokopia-PT-BR-Installer-v2.5.0.exe`.
+
+Para gerar uma release com BIN comprimido, IDX atualizado e um instalador com
+os hashes correspondentes, use o [processo de release](../release/README.md).
+O comando acima compila somente o instalador dos arquivos versionados; ele
+não comprime o BIN.

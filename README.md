@@ -69,3 +69,9 @@ Pokemon-Pokopia-PT-BR-Installer-v2.5.0.exe
 5. Mantenha o idioma do jogo em **inglês** para carregar os textos traduzidos e inicie o jogo novamente.
 
 Para desinstalar, remova o mod ou, se fez a substituição manual, restaure os backups originais.
+
+## Gerar releases
+
+O [processo de build da release](tools/release/README.md) gera um ZIP com BIN
+comprimido, IDX atualizado e instalador com os hashes do pacote. A instalação
+manual e pelo instalador mantém a mesma estrutura descrita acima.
